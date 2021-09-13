@@ -1,0 +1,227 @@
+[
+  {
+    "id": "edebbaff-7d6d-4c7e-87fb-784ebffeda41",
+    "data": [
+      {
+        "text": "我覺得可以",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504921195
+  },
+  {
+    "id": "4e2401ee-52c6-4adf-9379-88cd8b888ddc",
+    "data": [
+      {
+        "text": "那我要他",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504755594
+  },
+  {
+    "id": "31ad8e88-a806-40ca-8fb5-24b25d0b04b7",
+    "data": [
+      {
+        "text": "試試看",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504755594
+  },
+  {
+    "id": "523c89f7-dcd5-4499-ac4a-9aa116c26fc8",
+    "data": [
+      {
+        "text": "看看",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504755594
+  },
+  {
+    "id": "9520d20e-1aa3-4894-b391-f3eba9c16a0b",
+    "data": [
+      {
+        "text": "就是他了！",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503932388
+  },
+  {
+    "id": "adacfcd3-14ac-4f0d-b205-d92d0a10dd07",
+    "data": [
+      {
+        "text": "就決定是它了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503303914
+  },
+  {
+    "id": "c9339c13-183d-4ec7-9860-fcdd1cd86275",
+    "data": [
+      {
+        "text": "好啦好啦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502081535
+  },
+  {
+    "id": "b98bd6ba-5a83-4822-84ae-e17226f42e7b",
+    "data": [
+      {
+        "text": "好啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501739564
+  },
+  {
+    "id": "aa75b182-e65e-44b3-8fa1-ed97bb492e5e",
+    "data": [
+      {
+        "text": "就",
+        "userDefined": false
+      },
+      {
+        "text": "這",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "樣吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501502131
+  },
+  {
+    "id": "5e51a9b0-4a83-45df-a8f7-ea8b0404d785",
+    "data": [
+      {
+        "text": "噢好啊那我要這個",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501502131
+  },
+  {
+    "id": "34d9e601-c330-4efa-91dc-fb0db81249c8",
+    "data": [
+      {
+        "text": "好的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "868216c2-08e1-4e55-b60f-144ffad4775d",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6904b9a9-c556-4dab-9382-82ea6c5668dd",
+    "data": [
+      {
+        "text": "我可以",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d18d9181-afd3-4c04-ab9d-bfd1de66c1b2",
+    "data": [
+      {
+        "text": "很好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "674fd3b1-213f-457a-88ed-e82d7098f39c",
+    "data": [
+      {
+        "text": "沒問題",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65bebd7d-bb75-418a-92bf-9fc806d72bed",
+    "data": [
+      {
+        "text": "好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d606371f-197e-4e47-ae02-9708de7044a9",
+    "data": [
+      {
+        "text": "沒錯",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "036e3d43-5eca-4e35-b7c4-a22bc43c37cd",
+    "data": [
+      {
+        "text": "我確定",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

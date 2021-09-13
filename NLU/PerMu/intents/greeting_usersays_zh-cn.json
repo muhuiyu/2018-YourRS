@@ -1,0 +1,147 @@
+[
+  {
+    "id": "c9d0522f-7c13-4294-b23e-6800df12749c",
+    "data": [
+      {
+        "text": "你好哇",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501136597
+  },
+  {
+    "id": "8f49d0fc-13e4-44d6-9df9-940818858b67",
+    "data": [
+      {
+        "text": "妳好",
+        "alias": "greeting",
+        "meta": "@sayhello_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501738169
+  },
+  {
+    "id": "ca1b0289-485c-4d13-b5ef-b9bbf615ca00",
+    "data": [
+      {
+        "text": "請問",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "下",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501133079
+  },
+  {
+    "id": "5f3fefee-302b-45c3-8d07-f834d91e56ee",
+    "data": [
+      {
+        "text": "你好啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2b95d6c-b3bc-4cb1-b8b0-d3d24615f0d3",
+    "data": [
+      {
+        "text": "@sayhello_list:greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133079
+  },
+  {
+    "id": "a1649d86-cf36-476f-8885-909966b7d9de",
+    "data": [
+      {
+        "text": "有人在嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501133079
+  },
+  {
+    "id": "b9e10b2f-ef82-4a4d-9f11-608c46c71182",
+    "data": [
+      {
+        "text": "你好",
+        "alias": "greeting",
+        "meta": "@sayhello_list",
+        "userDefined": false
+      },
+      {
+        "text": "哇",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501136192
+  },
+  {
+    "id": "7a1a5812-24b0-42c2-aa3a-1eb767a5f20b",
+    "data": [
+      {
+        "text": "你好",
+        "alias": "greeting",
+        "meta": "@sayhello_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501479850
+  },
+  {
+    "id": "fadec7b2-f050-4639-9e20-b0d50c4e7bb9",
+    "data": [
+      {
+        "text": "嗨嗨",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501136597
+  },
+  {
+    "id": "f395f1fe-772d-4929-aa05-79d5ca1f8836",
+    "data": [
+      {
+        "text": "hi",
+        "alias": "greeting",
+        "meta": "@sayhello_list",
+        "userDefined": false
+      },
+      {
+        "text": "小M你好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502091779
+  }
+]

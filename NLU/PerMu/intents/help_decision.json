@@ -1,0 +1,85 @@
+{
+  "id": "e0566e30-cd73-4793-9ae7-d30c433ca691",
+  "name": "help_decision",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d76a4f59-31e7-4992-badf-8e8bc86b1342",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "fc08c0d9-954e-403c-b43b-1ab4ffb0c31d",
+          "dataType": "@item_list",
+          "name": "item",
+          "value": "$item",
+          "isList": false
+        },
+        {
+          "id": "e80045d1-705f-4083-9df0-9d5c61c9fc0a",
+          "dataType": "@brand_list",
+          "name": "brand1",
+          "value": "$brand1",
+          "isList": false
+        },
+        {
+          "id": "1fe27a0b-7586-4699-bf1a-5a7866a9db7c",
+          "dataType": "@brand_list",
+          "name": "brand2",
+          "value": "$brand2",
+          "isList": false
+        },
+        {
+          "id": "94427078-9e94-4bfc-886d-83f1b08ec4c2",
+          "dataType": "@color_list",
+          "name": "color1",
+          "value": "$color1",
+          "isList": false
+        },
+        {
+          "id": "a1f1f850-664c-4d65-a4a3-5419d5177ea4",
+          "dataType": "@color_list",
+          "name": "color2",
+          "value": "$color2",
+          "isList": false
+        },
+        {
+          "id": "7e80f639-f128-4b67-93f3-f9d145845252",
+          "dataType": "@name",
+          "name": "name1",
+          "value": "$name1",
+          "isList": false
+        },
+        {
+          "id": "12bd5503-d337-4b80-9246-eb8703072b3e",
+          "dataType": "@name",
+          "name": "name2",
+          "value": "$name2",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502025044,
+  "fallbackIntent": false,
+  "events": []
+}

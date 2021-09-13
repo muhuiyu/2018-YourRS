@@ -1,0 +1,44 @@
+{
+  "id": "4fb396f8-b0bc-4286-8649-4549afb7fa43",
+  "name": "react",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d77b851c-0883-4768-9631-413a0fc754ad",
+          "required": true,
+          "dataType": "@sentiment_list",
+          "name": "sentiment",
+          "value": "$sentiment",
+          "isList": false
+        },
+        {
+          "id": "b73b76d2-9e6c-447f-94eb-20ed24f658bc",
+          "dataType": "@where_list",
+          "name": "where",
+          "value": "$where",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504497998,
+  "fallbackIntent": false,
+  "events": []
+}

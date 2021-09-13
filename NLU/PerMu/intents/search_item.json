@@ -1,0 +1,112 @@
+{
+  "id": "40b905e0-629f-48f0-a6e5-6d146f8acfce",
+  "name": "search_item",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f68351e4-85ac-4627-a836-18fd7650e0b7",
+          "required": false,
+          "dataType": "@item_list",
+          "name": "item",
+          "value": "$item",
+          "isList": false
+        },
+        {
+          "id": "a308e461-a629-41e6-9b32-3559dc237e38",
+          "dataType": "@brand_list",
+          "name": "brand",
+          "value": "$brand",
+          "isList": false
+        },
+        {
+          "id": "0aa770bb-d186-4dd6-a904-a13bf62bad10",
+          "dataType": "@color_list",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        },
+        {
+          "id": "7707ba2f-5c78-4a39-94d4-df84d983d9b4",
+          "dataType": "@effect_list",
+          "name": "effect1",
+          "value": "$effect1",
+          "isList": false
+        },
+        {
+          "id": "e958ac7e-f3d5-437b-9ced-77f07b2c1025",
+          "dataType": "@effect_list",
+          "name": "effect2",
+          "value": "$effect2",
+          "isList": false
+        },
+        {
+          "id": "28228c4a-2d4e-419c-8cf3-208741473735",
+          "dataType": "@sys.number",
+          "name": "price",
+          "value": "$price"
+        },
+        {
+          "id": "c4e8299e-f693-43c1-be3c-af55034ab99f",
+          "dataType": "@bound_list",
+          "name": "bound",
+          "value": "$bound"
+        },
+        {
+          "id": "922c946f-dcb1-4f71-ae65-43f1c0455637",
+          "dataType": "@path_list",
+          "name": "path",
+          "value": "$path"
+        },
+        {
+          "id": "9cdc2333-c764-42ea-96fe-3a6dae246d6b",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "29ec2f4d-d9d4-4bc2-bf99-792a92c1b766",
+          "dataType": "@skinProblem",
+          "name": "skinProblem",
+          "value": "$skinProblem",
+          "isList": false
+        },
+        {
+          "id": "3cc8577d-3d37-4236-9875-75d3ac883310",
+          "dataType": "@price_limit",
+          "name": "price_limit",
+          "value": "$price_limit",
+          "isList": false
+        },
+        {
+          "id": "446616d2-1ba3-4d83-8569-db571930af21",
+          "dataType": "@slot_list",
+          "name": "slot_list",
+          "value": "$slot_list",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504948080,
+  "fallbackIntent": false,
+  "events": []
+}

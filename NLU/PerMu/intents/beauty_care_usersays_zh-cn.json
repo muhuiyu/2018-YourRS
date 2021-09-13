@@ -1,0 +1,171 @@
+[
+  {
+    "id": "40e944cc-4884-41d4-a992-6c0c473f0a09",
+    "data": [
+      {
+        "text": "手",
+        "alias": "body_part",
+        "meta": "@body_part",
+        "userDefined": false
+      },
+      {
+        "text": "有什麼保養的",
+        "userDefined": false
+      },
+      {
+        "text": "方法",
+        "alias": "slot_list",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c902e13-fb16-415a-ac04-5b6c3b6f0721",
+    "data": [
+      {
+        "text": "手",
+        "alias": "body_part",
+        "meta": "@body_part",
+        "userDefined": false
+      },
+      {
+        "text": "有什麼保養的",
+        "userDefined": false
+      },
+      {
+        "text": "產品",
+        "alias": "slot_list",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b146e4b-194a-41bd-ae5b-202c6eaa1f37",
+    "data": [
+      {
+        "text": "可以告訴我",
+        "userDefined": false
+      },
+      {
+        "text": "膝蓋",
+        "alias": "body_part",
+        "meta": "@body_part",
+        "userDefined": true
+      },
+      {
+        "text": "要怎麼保養嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49fd94bb-4198-4ed4-b2ae-a198790e27f0",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "知道",
+        "userDefined": false
+      },
+      {
+        "text": "脖子",
+        "alias": "body_part",
+        "meta": "@body_part",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼保養",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18af702f-23ed-43bd-9365-c55c0f8d84de",
+    "data": [
+      {
+        "text": "手",
+        "alias": "body_part",
+        "meta": "@body_part",
+        "userDefined": false
+      },
+      {
+        "text": "要",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "保養",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b648d9c1-d206-4ae2-9924-fbee477f40af",
+    "data": [
+      {
+        "text": "腳",
+        "alias": "body_part",
+        "meta": "@body_part",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼保養",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "382cde05-51d1-4fea-a9b6-622eefe44d23",
+    "data": [
+      {
+        "text": "可以告訴我",
+        "userDefined": false
+      },
+      {
+        "text": "腳",
+        "alias": "body_part",
+        "meta": "@body_part",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼保養嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "price_tooHigh",
+    "synonyms": [
+      "太高",
+      "貴",
+      "很貴",
+      "不便宜",
+      "太貴",
+      "貴死了",
+      "好貴",
+      "有點貴",
+      "有點高"
+    ]
+  },
+  {
+    "value": "price_tooLow",
+    "synonyms": [
+      "廉價",
+      "便宜貨",
+      "太便宜"
+    ]
+  },
+  {
+    "value": "effect_greasy",
+    "synonyms": [
+      "油膩",
+      "太油",
+      "很油"
+    ]
+  }
+]

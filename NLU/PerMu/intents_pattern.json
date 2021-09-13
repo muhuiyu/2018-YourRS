@@ -1,0 +1,168 @@
+{
+    "aboutYou": [
+        "你是正妹嗎",
+        "你住哪",
+        "你今天過得好嗎",
+        "(listener_聽者)*(aboutYou)(be_是)*(OtherWord(Ques_疑問))",
+        "(OtherWord(Ques_疑問))*(give_給)(speaker_說話者)*(aboutYou)(OtherWord(Ques_疑問))*"
+    ],
+    "ask_property": [
+        "1028貴嗎？",
+        "這多少錢？",
+        "有什麼文章嗎？",
+        "(brand)(的)*(item)(的)*(slot)*(be_是)*(OtherWord(Ques_疑問))",
+        "(brand)*(的)*(item)(的)*((effect)|(slot))(({如何})|((effectivity_效果)(QualityValue_品質值)))(Ques_疑問)"
+    ],
+    "beauty_care": [
+        "可以告訴我腳要怎麼保養嗎？",
+        "我想知道脖子要怎麼保養",
+        "說說臉要怎麼保養吧",
+        "(body)({如何})(maintain_保養)",
+        "(body)(exist_存在)*(Ques_疑問)*(maintain_保養)(的)*(({方式})|(商品_commodity))(Ques_疑問)*"
+      
+    ],
+    "chat": [
+        "很鬧哦",
+        "是噢哈哈",
+        "我今天要吃什麼啊"
+    ],
+    "choose": [
+        "就第一個吧",
+        "那我想要這個",
+        "第一個好了",
+        "(speaker_說話者)*(decide_決定)*(seek_謀取)*((where)|(brand))(的)*",
+        "(give_給)(speaker_說話者)(where)"
+    ],
+    "confirm": [
+        "我覺得可以",
+        "就是他了！",
+        "就這樣吧",
+        "(nice_良好)(particle)*"
+    ],
+    "else_recommend": [
+        "({有沒有})*(other_另)(的)*((item)|(brand)|(recommend_推薦)|(商品_commodity))",
+        "換一個",
+        "還有嗎",
+        "其他推薦呢"
+    ],
+    "goodbye": [
+        "(farewell_離別)",
+        "ㄅㄅ",
+        "掰啦"
+    ],
+    "greeting": [
+        "(SayHello_問候)",
+        "安安",
+        "嘿！"
+    ],
+    "help_decision": [
+        "你覺得(name_1)跟(name_2)哪個比較好",
+        "我不知道要選(name_1)還是(name_2)",
+        "我應該買(name_1)還是(name_2)呢",
+        "幫我選一個(item)",
+        "我不知道該不該買(brand)的(item)",
+        "我應該買(color_1)還是(color_2)的(item)",
+        "(brand_1)跟(brand_2)的(item)哪個比較好",
+        "我不知道要選哪個(item)",
+        "你喜歡哪個(item)",
+        "我該選哪個",
+        "你覺得哪個(item)比較好",
+        "幫我決定一下要選哪個"
+    ],
+    "inform": [
+        "(speaker_說話者)*(not)*((expect_期望)|(FondOf_喜歡))*((brand)|(color)|(effect))*(item)*",
+        "((brand)|(color)|(effect))(more|較)*(item)((nice_良好)|(bad_壞))"
+       
+    ],
+    "noidea": [
+        "沒想法",
+        "都可以",
+        "大概吧",
+        "沒有其他要求了",
+        "(speaker_說話者)*(not)(know_知道)",
+        "(mediocre_可)"
+    ],
+    "react": [
+        "死都不要",
+        "{不甘}",
+        "{ugly_醜}",
+        "(sentiment)",
+        "(not)*(FondOf_喜歡)"
+    ],
+    "reset": [
+        "通通不要",
+        "重來",
+        "重(新)來過",
+        "重設",
+        "清空",
+        "清除記錄",
+        "清除紀錄",
+        "前面說過的都不算",
+        "reset",
+        "(前一個)全都(討厭)了"
+    ],
+    "search_item": [
+        "來個眼影吧",
+        "眼線筆有嗎",
+        "最近有什麼好的眼影",
+        "可以推薦一個粉底給我嗎",
+        "(speaker_說話者)*(expect_期望)(LookFor_尋)*(brand)*(item)",
+        "({有無})(brand)*(item)"
+    ],
+    "search_makeup": [
+        "有推薦的(濃妝)嗎",
+        "推薦一個(氣質)妝給我～",
+        "我想找(上學)妝",
+        "我想找(上學)的妝",
+        "教我化妝啦",
+        "我不會化妝",
+        "我不太會化妝",
+        "我不大會化妝",
+        "給個好妝容吧",
+        "我要找妝容",
+        "隨便來個妝容",
+        "隨便推薦我一個妝",
+        "推薦個(occasion)妝吧",
+        "我想找(style)風格的妝容",
+        "有沒有(occasion)適合的妝容",
+        "我要找(occasion)可以用的妝"
+    ],
+    "skinBad": [
+        "我皮膚不好",
+        "昨天太晚睡今天puffyeyes了",
+        "我有(allergy)",
+        "我(acne)一直長",
+        "生理期來一堆(acne)",
+        "我臉頰長(rash)",
+        "我今天oilyskin",
+        "我最近darkcircles很深",
+        "狂冒(acne)怎麼辦",
+        "我長(rash)了",
+        "我最近darkcircles很重",
+        "我的darkcircles現在超重",
+        "我(acne)很多",
+        "我的臉今天好(effect_greasy)",
+        "不小心有(skinProblem)怎麼辦",
+        "今天長了一些(skinProblem)",
+        "我今天皮膚冒出(skinProblem)",
+        "怎麼辦我的皮膚(抱怨)掉了",
+        "(skin)今天(抱怨)掉了"
+    ],
+    "thanks": [
+        "哈哈哈好棒",
+        "thx",
+        "哈哈謝謝你",
+        "Thanks",
+        "Thank You",
+        "tks",
+        "謝嘍",
+        "謝謝你",
+        "感謝你",
+        "感恩",
+        "太(稱讚)了",
+        "大感謝",
+        "3Q啦",
+        "多謝",
+        "謝謝"
+    ]
+}

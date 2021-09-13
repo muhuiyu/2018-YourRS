@@ -1,0 +1,50 @@
+{
+  "id": "424ba9f6-81d6-4b7d-9fca-508698c55174",
+  "name": "search_makeup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d102287-d3e1-4165-8700-32136a687d44",
+          "dataType": "@occasion_list",
+          "name": "occasion",
+          "value": "$occasion",
+          "isList": false
+        },
+        {
+          "id": "04356d18-3fd8-4162-9831-47b7564ff840",
+          "dataType": "@style_list",
+          "name": "style",
+          "value": "$style",
+          "isList": false
+        },
+        {
+          "id": "2c7aa996-03fa-49ca-966d-492acdce1669",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1503914957,
+  "fallbackIntent": false,
+  "events": []
+}

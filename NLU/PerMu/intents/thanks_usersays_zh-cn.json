@@ -1,0 +1,197 @@
+[
+  {
+    "id": "734c1083-cb8e-4e38-b37d-ff0a4c137c59",
+    "data": [
+      {
+        "text": "哈哈哈好棒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503914425
+  },
+  {
+    "id": "be05ee8a-fc14-4eed-931a-fd7154f00417",
+    "data": [
+      {
+        "text": "thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1503677113
+  },
+  {
+    "id": "bdf6e440-533c-43f5-84af-5461276bf633",
+    "data": [
+      {
+        "text": "哈哈謝謝你",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501214271
+  },
+  {
+    "id": "482b9bcc-11e6-459f-a19b-fca8e20472db",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00b9e3a8-6cc3-474a-851a-f2bdbc2379c0",
+    "data": [
+      {
+        "text": "Thank You",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "809e66c6-15ee-4398-a844-c9831a308181",
+    "data": [
+      {
+        "text": "tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95e03131-f93f-404a-8e88-4ee67db731b5",
+    "data": [
+      {
+        "text": "謝嘍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3abb035e-215a-40d2-9238-8aba12253190",
+    "data": [
+      {
+        "text": "謝謝你",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08c650be-8ebd-487e-8079-e6587780ddd0",
+    "data": [
+      {
+        "text": "感謝你",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "186ee28f-bd5b-4c9a-840c-666552bd2fa8",
+    "data": [
+      {
+        "text": "感恩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bacc38cc-c5bd-4331-a22c-0a0364934615",
+    "data": [
+      {
+        "text": "太",
+        "userDefined": false
+      },
+      {
+        "text": "猛",
+        "alias": "sentiment_list",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1503914483
+  },
+  {
+    "id": "4438dc85-8f4b-40df-99e8-4614c004f8ce",
+    "data": [
+      {
+        "text": "大感謝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503914483
+  },
+  {
+    "id": "04247966-f71b-498a-b1b1-2974524dd56b",
+    "data": [
+      {
+        "text": "3Q",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "啦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08897f05-c97e-4620-adce-9860cd5fa9d5",
+    "data": [
+      {
+        "text": "多謝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eed6a0a4-cf83-4519-9315-07e83955b0b2",
+    "data": [
+      {
+        "text": "謝謝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

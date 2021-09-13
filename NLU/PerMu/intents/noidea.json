@@ -1,0 +1,28 @@
+{
+  "id": "080321da-6063-4afa-acf8-7315704d9a36",
+  "name": "noidea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502417508,
+  "fallbackIntent": false,
+  "events": []
+}

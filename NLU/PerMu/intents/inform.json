@@ -1,0 +1,145 @@
+{
+  "id": "3610559b-2160-41f9-b506-400e0564b39c",
+  "name": "inform",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "38818683-ea92-46c0-ad50-5c9a0ced23d2",
+          "dataType": "@sentiment_list",
+          "name": "sentiment",
+          "value": "$sentiment",
+          "isList": false
+        },
+        {
+          "id": "06036bd9-30d2-4392-8945-9f8539be6f17",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "b4246ef2-c961-4157-bbe1-bfea8def4125",
+          "dataType": "@brand_list",
+          "name": "brand",
+          "value": "$brand",
+          "isList": false
+        },
+        {
+          "id": "4a8fd6c8-5c01-4de1-8f37-3e31ba88491f",
+          "dataType": "@item_list",
+          "name": "item",
+          "value": "$item",
+          "isList": false
+        },
+        {
+          "id": "7896e540-e98a-4347-b0dd-1d46e7969615",
+          "dataType": "@where_list",
+          "name": "where",
+          "value": "$where",
+          "isList": false
+        },
+        {
+          "id": "46ab4f16-3d34-4c8d-ba9a-9d8660a8ee65",
+          "dataType": "@color_list",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        },
+        {
+          "id": "911c8f34-c459-4823-8575-213e24c02c48",
+          "dataType": "@effect_list",
+          "name": "effect1",
+          "value": "$effect1",
+          "isList": false
+        },
+        {
+          "id": "85bb51ac-f8a0-4e9b-b23d-6f7cf2754c84",
+          "dataType": "@effect_list",
+          "name": "effect2",
+          "value": "$effect2",
+          "isList": false
+        },
+        {
+          "id": "04d3c840-28bb-44b5-ba0f-b96c5e2eee33",
+          "dataType": "@occasion_list",
+          "name": "occasion",
+          "value": "$occasion",
+          "isList": false
+        },
+        {
+          "id": "7fa2802f-7f34-427b-96b7-030af30f6526",
+          "dataType": "@slot_list",
+          "name": "slot",
+          "value": "$slot",
+          "isList": false
+        },
+        {
+          "id": "f95b2edd-26d5-4f03-ac9e-6269567f4058",
+          "dataType": "@effect_list",
+          "name": "effect",
+          "value": "$effect",
+          "isList": false
+        },
+        {
+          "id": "7b2586d9-3fd4-4616-bdd7-e32bc1566091",
+          "dataType": "@sys.number",
+          "name": "price",
+          "value": "$price"
+        },
+        {
+          "id": "bf5326d0-8550-45f9-8db7-2a07f9ed3bb5",
+          "dataType": "@bound_list",
+          "name": "bound",
+          "value": "$bound"
+        },
+        {
+          "id": "21db89ab-da01-48d1-9c6b-30378a190f02",
+          "dataType": "@path_list",
+          "name": "path",
+          "value": "$path"
+        },
+        {
+          "id": "58c0f380-e6c6-4b61-965c-f29948dfaae6",
+          "dataType": "@informBad",
+          "name": "bad",
+          "value": "$bad",
+          "isList": false
+        },
+        {
+          "id": "86e8968d-fac8-4b80-96c8-63cb4469e10b",
+          "dataType": "@price_limit",
+          "name": "price_limit",
+          "value": "$price_limit",
+          "isList": false
+        },
+        {
+          "id": "f1c96dae-17a9-4ad1-be7d-7a84df5f0d05",
+          "dataType": "@style_list",
+          "name": "style_list",
+          "value": "$style_list",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504948117,
+  "fallbackIntent": false,
+  "events": []
+}

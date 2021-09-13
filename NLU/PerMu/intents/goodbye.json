@@ -1,0 +1,28 @@
+{
+  "id": "6bf1d03e-d2fb-41b5-88d8-1f6fd568176a",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502351941,
+  "fallbackIntent": false,
+  "events": []
+}

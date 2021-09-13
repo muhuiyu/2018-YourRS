@@ -1,0 +1,156 @@
+[
+  {
+    "id": "3e945704-4af8-40a4-9bf3-da6ca2455fe7",
+    "data": [
+      {
+        "text": "你覺得 @name:name1  跟 @name:name2  哪個比較好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501556386
+  },
+  {
+    "id": "0936a36f-f99c-498d-bc20-32ab3cb1f34e",
+    "data": [
+      {
+        "text": "我不知道要選 @name:name1 還是 @name:name2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501556386
+  },
+  {
+    "id": "8de9d98e-7b8a-4e9e-a3f4-d3b0d63feac3",
+    "data": [
+      {
+        "text": "我應該買 @name:name1 還是 @name:name2 呢",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501556386
+  },
+  {
+    "id": "a4c2dcfb-e093-4bf1-907c-1d764169157c",
+    "data": [
+      {
+        "text": "幫我選一個@item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 1,
+    "updated": 1501220879
+  },
+  {
+    "id": "a724b3b6-0276-4ef1-804f-b0f1069da171",
+    "data": [
+      {
+        "text": "我不知道該不該買 @brand_list:brand1 的 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501135067
+  },
+  {
+    "id": "d4ea0f96-5c20-4c8e-b8a1-78fa6411186f",
+    "data": [
+      {
+        "text": "我應該買 @color_list:color1 還是 @color_list:color2 的 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501132803
+  },
+  {
+    "id": "73cf11d2-9afe-4d63-8877-2cddb2f3b87f",
+    "data": [
+      {
+        "text": "@brand_list:brand1 跟 @brand_list:brand2 的 @item_list:item 哪個比較好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501132803
+  },
+  {
+    "id": "92e02d8f-b667-4da2-b284-16b5c266b0a1",
+    "data": [
+      {
+        "text": "我不知道要選哪個 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c18d8650-4df1-4402-888b-1abe3bd0617d",
+    "data": [
+      {
+        "text": "你喜歡哪個 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4b41b12-658e-44d4-b277-c6e839db6b40",
+    "data": [
+      {
+        "text": "我該選哪個",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bf9f8e7-602e-4e29-b020-5727f1c65bb1",
+    "data": [
+      {
+        "text": "你覺得哪個 @item_list:item 比較好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e615ca1c-ae59-415e-aaa6-df261f19ceb0",
+    "data": [
+      {
+        "text": "幫我決定",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "下要選哪個",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

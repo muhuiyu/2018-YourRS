@@ -1,0 +1,45 @@
+{
+  "id": "72296123-8cbc-4dcc-aee2-68499e9dedbb",
+  "name": "aboutYou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87c30f47-e278-4cee-a5c1-16bff45c30ba",
+          "required": false,
+          "dataType": "@aboutyou_slot",
+          "name": "query",
+          "value": "$query",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "60fcefc4-30d5-4a93-af4f-aa0032e2f9a0",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504756200,
+  "fallbackIntent": false,
+  "events": []
+}

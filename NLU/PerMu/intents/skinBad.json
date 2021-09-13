@@ -1,0 +1,43 @@
+{
+  "id": "076b6136-a39e-4fc3-92b7-e1dcd6323575",
+  "name": "skinBad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e6895859-0eff-4bd1-916d-48f940d692e2",
+          "required": true,
+          "dataType": "@skinProblem",
+          "name": "skinProblem",
+          "value": "$skinProblem",
+          "prompts": [
+            {
+              "lang": "zh-cn",
+              "value": "怎麼會這樣QQ 是哪邊狀況不好呢？"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504575948,
+  "fallbackIntent": false,
+  "events": []
+}

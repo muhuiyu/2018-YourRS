@@ -1,0 +1,28 @@
+{
+  "id": "eb6dc031-e371-42bd-a35e-5c38c9f6dc69",
+  "name": "reset",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504941159,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "37843d14-2962-4993-ae0d-66ef2c2db598",
+  "name": "beauty_care",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f95a7c32-2540-4856-82f1-faddcf316054",
+          "dataType": "@body_part",
+          "name": "body_part",
+          "value": "$body_part",
+          "isList": false
+        },
+        {
+          "id": "12d80d3b-8576-49ab-8471-26ecd70b14f3",
+          "dataType": "@slot_list",
+          "name": "slot_list",
+          "value": "$slot_list",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510798792,
+  "fallbackIntent": false,
+  "events": []
+}

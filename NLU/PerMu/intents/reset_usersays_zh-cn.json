@@ -1,0 +1,145 @@
+[
+  {
+    "id": "d8960a06-caae-4e3a-adf6-48e158a6e934",
+    "data": [
+      {
+        "text": "通通不要",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504941159
+  },
+  {
+    "id": "db5b684e-9128-4695-ae1a-8b4e0bbe580d",
+    "data": [
+      {
+        "text": "重來",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3dbc65a-698f-49be-8ba2-a2ea5d072d41",
+    "data": [
+      {
+        "text": "重",
+        "userDefined": false
+      },
+      {
+        "text": "新",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "來過",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbd26f08-a553-4bb1-aaf4-3cb4ca325c18",
+    "data": [
+      {
+        "text": "重設",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b10a20d-ff52-4b26-85c3-3682ac5229b5",
+    "data": [
+      {
+        "text": "清空",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "096424c2-6989-47a3-9c2d-d2c79c929bca",
+    "data": [
+      {
+        "text": "清除記錄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19ee49e7-2aad-456c-8bd7-b49738d36219",
+    "data": [
+      {
+        "text": "清除紀錄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36f8555f-1870-41e2-9b5d-865a0c3a4cee",
+    "data": [
+      {
+        "text": "前面說過的都不算",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff82e7e9-2b22-4003-a8e5-68a1f19b98c2",
+    "data": [
+      {
+        "text": "reset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04bdb862-47df-4e02-8d81-b5e53c974896",
+    "data": [
+      {
+        "text": "前面的",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "全都",
+        "userDefined": false
+      },
+      {
+        "text": "不要",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504883619
+  }
+]

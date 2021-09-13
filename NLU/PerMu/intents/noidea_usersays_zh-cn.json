@@ -1,0 +1,364 @@
+[
+  {
+    "id": "966d64f3-2b78-4651-82db-cb1ebad44d30",
+    "data": [
+      {
+        "text": "應該都行",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "0daa7d1c-d6c7-4288-8b5e-bd48c63750f1",
+    "data": [
+      {
+        "text": "我都可以啦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "a113ed7c-ef92-4afa-8a74-4c25f95aad21",
+    "data": [
+      {
+        "text": "我不太care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "ef02545a-98d6-431e-b89e-bcbe5c04c071",
+    "data": [
+      {
+        "text": "我不是很care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "4047cd7f-21f2-4c9c-ab59-346cc652a938",
+    "data": [
+      {
+        "text": "我不在乎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "7d6370e6-3639-4d3a-b8aa-c04e41cd117f",
+    "data": [
+      {
+        "text": "我不在乎有沒有",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "bbbbc382-f6cf-47a4-9c4e-a5cac1f6e761",
+    "data": [
+      {
+        "text": "現在沒想到",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "af68425d-0622-4198-93a6-77453d69db9e",
+    "data": [
+      {
+        "text": "沒了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "1df952e7-c0ac-46b2-a37b-ed5902db73e8",
+    "data": [
+      {
+        "text": "沒有其他要求了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "a7e8b6d6-a27e-4c90-91f8-9eb38aa9b1af",
+    "data": [
+      {
+        "text": "大概",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "先",
+        "userDefined": false
+      },
+      {
+        "text": "這",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "樣",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502417508
+  },
+  {
+    "id": "6be305a8-517b-4a15-b46e-5124ec1a160f",
+    "data": [
+      {
+        "text": "沒什麼特別的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025078
+  },
+  {
+    "id": "8db2565b-9855-44e2-b1c4-22d4ffcb1d38",
+    "data": [
+      {
+        "text": "沒有",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b6f52c18-4fc7-4f1b-9b87-89e9ffc17839",
+    "data": [
+      {
+        "text": "沒有很care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "ddb67666-50ed-4e2d-a9da-c1f3766394f4",
+    "data": [
+      {
+        "text": "我不care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "e121249f-8cf3-4f4e-b066-3936ab88acf9",
+    "data": [
+      {
+        "text": "應該沒差吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "add6b558-94b5-4350-8905-f4489621b848",
+    "data": [
+      {
+        "text": "都行",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "6c9a3a07-86ba-4871-bde4-b0f3401c6049",
+    "data": [
+      {
+        "text": "還好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "85c2598c-51b8-4511-a9be-31ef5eb75f17",
+    "data": [
+      {
+        "text": "都可以",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "bbf73aae-01e5-4fb7-9f26-c9fabad72b84",
+    "data": [
+      {
+        "text": "我不在意",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e949f41b-afd0-42db-9c84-05920cf7acab",
+    "data": [
+      {
+        "text": "沒什麼想法",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "708595c5-81e9-457a-93af-a8278dc3f872",
+    "data": [
+      {
+        "text": "不知道欸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3cdfa1b-f731-4ad7-990a-55cb98a8299f",
+    "data": [
+      {
+        "text": "沒差",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e00a9586-945e-4085-aa6b-0e169d6ac131",
+    "data": [
+      {
+        "text": "應該是沒差",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5438d8e-57dd-437f-9fef-3523786e3e6d",
+    "data": [
+      {
+        "text": "大概都行",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3ba97f5-69a2-4062-8662-41603bc12069",
+    "data": [
+      {
+        "text": "都ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60a8ce1d-a20d-42c9-91eb-5d3cf9cb105a",
+    "data": [
+      {
+        "text": "你爽就好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "49877e8c-a88b-4d0f-a176-ef846ca332a4",
+    "data": [
+      {
+        "text": "沒有差",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501494196
+  },
+  {
+    "id": "515e58db-8d95-4072-bd8b-00b3285681db",
+    "data": [
+      {
+        "text": "我都可以",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8905d58-791b-4ae3-b6a2-40ab085e3380",
+    "data": [
+      {
+        "text": "都還好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

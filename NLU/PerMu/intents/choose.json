@@ -1,0 +1,44 @@
+{
+  "id": "b66501a4-719f-48d3-9ae2-b54d325f7b7c",
+  "name": "choose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "272c7f9d-eb8a-4b40-8a50-69b07e8a5424",
+          "required": true,
+          "dataType": "@where_list",
+          "name": "where",
+          "value": "$where",
+          "isList": false
+        },
+        {
+          "id": "1fdbdb72-3c04-4c2f-9eea-64b15cfde05a",
+          "dataType": "@item_list",
+          "name": "item",
+          "value": "$item",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502024976,
+  "fallbackIntent": false,
+  "events": []
+}

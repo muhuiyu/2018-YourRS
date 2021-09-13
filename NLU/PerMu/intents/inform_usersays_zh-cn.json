@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "6afe5473-c64e-4c9d-9e74-31f7162e5e48",
+    "data": [
+      {
+        "text": "推薦我",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "個",
+        "userDefined": false
+      },
+      {
+        "text": "迪奧",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "商品",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504948117
+  },
+  {
+    "id": "72feb2ec-2d3f-417d-b78d-22ea8c580b92",
+    "data": [
+      {
+        "text": "推薦我",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "個",
+        "userDefined": false
+      },
+      {
+        "text": "迪奧",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "產品",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504947849
+  },
+  {
+    "id": "ce9c2090-35ec-40e4-9d53-615b9f7b1d16",
+    "data": [
+      {
+        "text": "日系",
+        "alias": "style_list",
+        "meta": "@style_list",
+        "userDefined": false
+      },
+      {
+        "text": "好了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504941558
+  },
+  {
+    "id": "1764ed91-0a46-4ca4-8fc9-eca3209da41a",
+    "data": [
+      {
+        "text": "那我",
+        "userDefined": false
+      },
+      {
+        "text": "想要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "買",
+        "userDefined": false
+      },
+      {
+        "text": "妝自然雙色修容餅",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504922101
+  },
+  {
+    "id": "b1e8b8db-b4bb-473a-b868-584285bce136",
+    "data": [
+      {
+        "text": "那我要買",
+        "userDefined": false
+      },
+      {
+        "text": "妝自然雙色修容餅",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504922009
+  },
+  {
+    "id": "941f65c9-4b9f-42ad-b98b-1918acccce4c",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "試試",
+        "userDefined": false
+      },
+      {
+        "text": "專櫃",
+        "alias": "path",
+        "meta": "@path_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504913649
+  },
+  {
+    "id": "ae88673b-a9e7-47c8-ac3d-5dc4424e510f",
+    "data": [
+      {
+        "text": "我要",
+        "userDefined": false
+      },
+      {
+        "text": "迪奧",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "商品",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "45272058-84a8-45cc-a06c-600256d6df4b",
+    "data": [
+      {
+        "text": "我要找",
+        "userDefined": false
+      },
+      {
+        "text": "迪奧",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "化妝品",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a1e1cfce-69a1-44bf-8149-fc394e8f22a2",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "專櫃",
+        "alias": "path",
+        "meta": "@path_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504883888
+  },
+  {
+    "id": "b451a697-3812-44c8-945e-db9ba9713459",
+    "data": [
+      {
+        "text": "有更",
+        "userDefined": false
+      },
+      {
+        "text": "貴的",
+        "alias": "price_limit",
+        "meta": "@price_limit",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504577993
+  },
+  {
+    "id": "11be6b73-67c4-487b-adf4-47ee9367fc5b",
+    "data": [
+      {
+        "text": "有",
+        "userDefined": false
+      },
+      {
+        "text": "貴一點",
+        "alias": "price_limit",
+        "meta": "@price_limit",
+        "userDefined": true
+      },
+      {
+        "text": "的嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504577471
+  },
+  {
+    "id": "b6c66f8f-a571-49bb-86d5-13d1ed7dd0d7",
+    "data": [
+      {
+        "text": "不要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "濃妝",
+        "alias": "style_list",
+        "meta": "@style_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503914046
+  },
+  {
+    "id": "dd67b9ee-a48e-4e1f-b297-b415aadd3482",
+    "data": [
+      {
+        "text": "淡妝",
+        "alias": "style_list",
+        "meta": "@style_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503891379
+  },
+  {
+    "id": "6950158a-5296-4c39-ac73-cfc9f71af20c",
+    "data": [
+      {
+        "text": "清新妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503891379
+  },
+  {
+    "id": "381a91b4-6947-41c6-8028-0971d5f0f55d",
+    "data": [
+      {
+        "text": "自然系",
+        "alias": "style_list",
+        "meta": "@style_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503891379
+  },
+  {
+    "id": "b4a76b44-322a-462f-8971-55d5e178d2c1",
+    "data": [
+      {
+        "text": "素顏風",
+        "alias": "style_list",
+        "meta": "@style_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503888919
+  },
+  {
+    "id": "81408534-a112-494b-8466-39c999336069",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "日常",
+        "alias": "occasion",
+        "meta": "@occasion_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503756597
+  },
+  {
+    "id": "01e9bd3e-1825-4a30-9507-b9d3aec27dff",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "media",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546216
+  },
+  {
+    "id": "762d6e7c-b4d0-4815-995c-119e4c4d5665",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502874881
+  },
+  {
+    "id": "27f078c3-cdf1-49e9-9ad0-a591823cdfd1",
+    "data": [
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "我不",
+        "userDefined": false
+      },
+      {
+        "text": "喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502354484
+  },
+  {
+    "id": "ed117608-82c9-4104-b9d2-3db4db41420c",
+    "data": [
+      {
+        "text": "我是",
+        "userDefined": false
+      },
+      {
+        "text": "黑肉",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": true
+      },
+      {
+        "text": "人",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1502354484
+  },
+  {
+    "id": "3b18b6c1-9eea-4d9d-960f-35e0cf9dacc0",
+    "data": [
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502351704
+  },
+  {
+    "id": "3766e357-7af8-4b3c-a3d8-806e90337b67",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "要去",
+        "userDefined": false
+      },
+      {
+        "text": "面試",
+        "alias": "occasion",
+        "meta": "@occasion_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502267101
+  },
+  {
+    "id": "2996d4b3-422e-43f0-aee6-d593fe3a9ed5",
+    "data": [
+      {
+        "text": "我要",
+        "userDefined": false
+      },
+      {
+        "text": "貴一點",
+        "alias": "price_limit",
+        "meta": "@price_limit",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502267101
+  },
+  {
+    "id": "5a04b787-d09e-417c-a975-4708718bb9a5",
+    "data": [
+      {
+        "text": "我要",
+        "userDefined": false
+      },
+      {
+        "text": "貴的",
+        "alias": "price_limit",
+        "meta": "@price_limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502267101
+  },
+  {
+    "id": "7845fdba-8550-430a-8766-6c4c103f99bf",
+    "data": [
+      {
+        "text": "我要",
+        "userDefined": false
+      },
+      {
+        "text": "便宜的",
+        "alias": "price_limit",
+        "meta": "@price_limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502267101
+  },
+  {
+    "id": "09bc70d5-22f6-4cfe-ae6c-79ffe72c0376",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "綠色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502087288
+  },
+  {
+    "id": "3e31731e-882e-4dbd-b05b-d006d6f133c0",
+    "data": [
+      {
+        "text": "好貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "噢",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1502178612
+  },
+  {
+    "id": "7fa287f7-2d85-49ba-b97e-bde33eacc726",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "還是",
+        "userDefined": false
+      },
+      {
+        "text": "很貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1502178612
+  },
+  {
+    "id": "08dbb719-2d90-4c58-9823-6d123bb2c2cb",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不想要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "麼",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "的東西",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502083641
+  },
+  {
+    "id": "00226a64-4429-4742-9fb7-2116683f56d8",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "東西",
+        "userDefined": false
+      },
+      {
+        "text": "太貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502083641
+  },
+  {
+    "id": "1d0246cc-afa8-404f-a84a-7214f360a536",
+    "data": [
+      {
+        "text": "好貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "欸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502083641
+  },
+  {
+    "id": "3e6f111c-9e3a-4b35-b3f8-a9d67cc3de36",
+    "data": [
+      {
+        "text": "好貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502083641
+  },
+  {
+    "id": "1fc48cc1-484b-4cf4-bfb7-b67aabfd617f",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "太貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502083641
+  },
+  {
+    "id": "79bdbc48-e7f6-4471-9096-6fb46640c026",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "還是",
+        "userDefined": false
+      },
+      {
+        "text": "好貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502083641
+  },
+  {
+    "id": "21a27c45-0d2f-4419-a6c0-c077d280b53d",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "超級",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "欸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502083641
+  },
+  {
+    "id": "1e64e5c9-56f3-4eaa-bd36-c3bb04f89704",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "太貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      },
+      {
+        "text": "了啦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502082971
+  },
+  {
+    "id": "2ab243b3-e50f-4a83-98be-f71b56188c59",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "非常",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502082971
+  },
+  {
+    "id": "6411e524-0742-4ac3-9143-e04ee443f70f",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "超級",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502082971
+  },
+  {
+    "id": "e0ba03dc-ce29-44a0-a9e4-104dfa29cc3b",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "很貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502082971
+  },
+  {
+    "id": "2c7ab66b-38d9-44e3-a080-47c961d61b03",
+    "data": [
+      {
+        "text": "我要找有",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502081665
+  },
+  {
+    "id": "68175985-0770-45ab-b309-5bee44432520",
+    "data": [
+      {
+        "text": "請給我有",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "功能的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502081665
+  },
+  {
+    "id": "f6f0bc64-49fb-40bc-9fba-a5de5e2c8e44",
+    "data": [
+      {
+        "text": "我要有",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "功能的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502071938
+  },
+  {
+    "id": "c863f999-74da-44ed-8cdc-121d8db8b25b",
+    "data": [
+      {
+        "text": "我覺得",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": true
+      },
+      {
+        "text": "太油",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": true
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025054
+  },
+  {
+    "id": "b44246da-f2ca-4bfc-8932-64af556a08e7",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": true
+      },
+      {
+        "text": "太",
+        "userDefined": false
+      },
+      {
+        "text": "廉價",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": true
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025054
+  },
+  {
+    "id": "6ce03cc1-f9b7-4b3b-be2d-9685961b3657",
+    "data": [
+      {
+        "text": "太貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": true
+      },
+      {
+        "text": "了啦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501812295
+  },
+  {
+    "id": "7863df2c-bc82-4506-9612-99f23e0a9c66",
+    "data": [
+      {
+        "text": "我覺得好",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501812295
+  },
+  {
+    "id": "cc26e6fa-1388-4a3f-a6a9-d12aa820bc8d",
+    "data": [
+      {
+        "text": "有點",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501812295
+  },
+  {
+    "id": "0c5cabd8-1522-4002-b3a2-8f1aabdb59e6",
+    "data": [
+      {
+        "text": "價錢",
+        "userDefined": false
+      },
+      {
+        "text": "太貴",
+        "alias": "bad",
+        "meta": "@informBad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501812167
+  },
+  {
+    "id": "af71764c-6c17-468a-80f9-3887d0f8b8f2",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "SUQQU",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501744707
+  },
+  {
+    "id": "c65c08e2-9a2b-4a41-b4f9-b2742f431a51",
+    "data": [
+      {
+        "text": "不要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "給我",
+        "userDefined": false
+      },
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501744707
+  },
+  {
+    "id": "d7c25bc8-0555-4b36-9e78-00171e746c20",
+    "data": [
+      {
+        "text": "不要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "給我 ",
+        "userDefined": false
+      },
+      {
+        "text": "紅色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": true
+      },
+      {
+        "text": " 的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501744707
+  },
+  {
+    "id": "a885b14f-00cc-411b-a349-dce55a925fdf",
+    "data": [
+      {
+        "text": "我不喜歡 @brand_list:brand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501744707
+  },
+  {
+    "id": "cf0a1732-7ace-476f-8a65-1ac858566745",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "黑色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501739763
+  },
+  {
+    "id": "1633bf7b-1ba9-4d04-b25a-dc4a0d577730",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501726510
+  },
+  {
+    "id": "1b9c9908-6fa6-4627-bd1a-82ddd00c8585",
+    "data": [
+      {
+        "text": "價錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "兩百",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "以上",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆有",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501693914
+  },
+  {
+    "id": "2c78a9e5-5b29-45fe-af92-3ef5ec22a58f",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501665519
+  },
+  {
+    "id": "e5cd914e-6436-4cce-a94f-615e5db19515",
+    "data": [
+      {
+        "text": "三千",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501663618
+  },
+  {
+    "id": "c7e79ec5-3e1a-442a-ba39-436607ca49d7",
+    "data": [
+      {
+        "text": "2000",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501663598
+  },
+  {
+    "id": "98abeeea-58ac-4947-8ff9-a6f35bae853a",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "面膜",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501643454
+  },
+  {
+    "id": "75f4aab7-ef73-4e1c-aa56-87c2056d2007",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "粉紅色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501596709
+  },
+  {
+    "id": "9760db3c-26f2-464e-9843-8c167b3b2494",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "MEME",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501574470
+  },
+  {
+    "id": "d1d0e469-cc45-4826-8918-cfab65773082",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "專櫃",
+        "alias": "path",
+        "meta": "@path_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501573803
+  },
+  {
+    "id": "7ec1136a-58cb-4c79-b10e-be84365697a4",
+    "data": [
+      {
+        "text": "我不喜歡 @name:name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 1,
+    "updated": 1501573803
+  },
+  {
+    "id": "ea32a2d2-8b4d-4d42-9637-f26a27c42d76",
+    "data": [
+      {
+        "text": "@name:name 很 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501573803
+  },
+  {
+    "id": "31d503da-b630-45cc-a9ca-2ff9ef64a387",
+    "data": [
+      {
+        "text": "我要找",
+        "userDefined": false
+      },
+      {
+        "text": "三千",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "元",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "以下",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501552567
+  },
+  {
+    "id": "267eb6d6-6df1-470e-aaa4-b5994a3fea80",
+    "data": [
+      {
+        "text": "不要超過",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": false
+      },
+      {
+        "text": "700",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501550408
+  },
+  {
+    "id": "e32b7083-5b05-4c6a-96dc-16035ad90672",
+    "data": [
+      {
+        "text": "可以給我",
+        "userDefined": false
+      },
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501509280
+  },
+  {
+    "id": "ca69d682-a564-4a21-90a4-982eed03dab0",
+    "data": [
+      {
+        "text": "開架",
+        "alias": "path",
+        "meta": "@path_list",
+        "userDefined": false
+      },
+      {
+        "text": "吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fd272746-8c2c-4691-8fc9-87eff846a178",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "綠色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501492903
+  },
+  {
+    "id": "3a135ca2-fada-438b-8da9-eff1f1331bbc",
+    "data": [
+      {
+        "text": "不要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "黑色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501492854
+  },
+  {
+    "id": "63748d52-2610-41f5-b8fd-39078a057880",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "種",
+        "userDefined": false
+      },
+      {
+        "text": "黑色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501464560
+  },
+  {
+    "id": "a5fe3f90-01cb-4917-93ba-1d6a77997cce",
+    "data": [
+      {
+        "text": "這個我",
+        "userDefined": false
+      },
+      {
+        "text": "沒有很喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "欸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501464261
+  },
+  {
+    "id": "d3f2d6d7-2f74-49f1-91e6-10a6dd098da5",
+    "data": [
+      {
+        "text": "bbi",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501229938
+  },
+  {
+    "id": "f055d510-62cb-455d-93ad-1eaaebdf1127",
+    "data": [
+      {
+        "text": "bbi",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的好了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501229930
+  },
+  {
+    "id": "4bc591fe-d0d0-4a8b-ba12-b4a08a9f1c08",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": true
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "很",
+        "userDefined": false
+      },
+      {
+        "text": "醜",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501227876
+  },
+  {
+    "id": "e2daa9be-5297-4463-8785-5ce6678b8db1",
+    "data": [
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501215576
+  },
+  {
+    "id": "e47fe223-1b49-47be-aca9-2ae14ea01ab8",
+    "data": [
+      {
+        "text": "價錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "不要超過",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": true
+      },
+      {
+        "text": "300",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "元",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501209224
+  },
+  {
+    "id": "02515a11-5b76-4f7a-bedb-763c0cfbd763",
+    "data": [
+      {
+        "text": "@color_list:color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165732
+  },
+  {
+    "id": "9d0366b8-6c3f-4889-85e5-1c4b3a0620c6",
+    "data": [
+      {
+        "text": "@item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165732
+  },
+  {
+    "id": "01facd45-6405-4920-861b-db2f32a4fc1d",
+    "data": [
+      {
+        "text": "@brand_list:brand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165732
+  },
+  {
+    "id": "31a3a3ed-f1e1-4ca3-8f30-08fe0ed7b58e",
+    "data": [
+      {
+        "text": "@effect_list:effect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165732
+  },
+  {
+    "id": "90772584-fbba-457f-8e68-49299f63baf6",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "媚比琳",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼影棒",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501165513
+  },
+  {
+    "id": "cdf344a1-386b-4b08-9ace-93180805249d",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "kose",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "粉底液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "很",
+        "userDefined": false
+      },
+      {
+        "text": "好用",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501165452
+  },
+  {
+    "id": "0514f2c2-a7da-4d1e-bd34-bde03e739928",
+    "data": [
+      {
+        "text": "這個",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "好",
+        "userDefined": false
+      },
+      {
+        "text": "醜",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501139564
+  },
+  {
+    "id": "f6be0f93-9ae3-4be6-bd95-54b3404ab2e5",
+    "data": [
+      {
+        "text": "這個 @item_list:item 的 @slot_list:slot 很 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501139564
+  },
+  {
+    "id": "b5c8d956-1277-4fc2-bbaa-c95a24a6b331",
+    "data": [
+      {
+        "text": "我不",
+        "userDefined": false
+      },
+      {
+        "text": "喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501136597
+  },
+  {
+    "id": "621d7d84-3c6f-4f5d-8b92-b9fc42a1bdb9",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "很",
+        "userDefined": false
+      },
+      {
+        "text": "奇怪",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "欸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501136597
+  },
+  {
+    "id": "b8e07171-ad5f-421a-912f-164d65713317",
+    "data": [
+      {
+        "text": "@slot_list:slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165732
+  },
+  {
+    "id": "e981e208-4137-42dd-8e93-9e4fa3f06bcf",
+    "data": [
+      {
+        "text": "@occasion_list:occasion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165732
+  },
+  {
+    "id": "02ab8aad-fb81-4858-920f-4f2cd912d3fd",
+    "data": [
+      {
+        "text": "今天我要去參加一個",
+        "userDefined": false
+      },
+      {
+        "text": "婚禮",
+        "alias": "occasion",
+        "meta": "@occasion_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501136597
+  },
+  {
+    "id": "4b4b08f7-0125-4ee8-913f-9cd0125ddaa0",
+    "data": [
+      {
+        "text": "今天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "我要去參加一個",
+        "userDefined": false
+      },
+      {
+        "text": "婚禮",
+        "alias": "occasion",
+        "meta": "@occasion_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501136192
+  },
+  {
+    "id": "04e0f716-5593-4127-8336-2c9308029f49",
+    "data": [
+      {
+        "text": "我今天要去一個 @occasion_list:occasion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501136023
+  },
+  {
+    "id": "2507dd49-0a93-4c18-b5d9-ba559b9615a2",
+    "data": [
+      {
+        "text": "我覺得 @color_list:color 比較 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133996
+  },
+  {
+    "id": "2e484d21-b6d7-4556-9c87-4cc447106926",
+    "data": [
+      {
+        "text": "我覺得 @brand_list:brand 比較 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133996
+  },
+  {
+    "id": "7d8e8f6f-b51a-40fd-b2f5-1b05c7e2de5b",
+    "data": [
+      {
+        "text": "給我可以 @effect_list:effect1 跟 @effect_list:effect2 的@item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133996
+  },
+  {
+    "id": "dcbcadf1-d624-420b-b3ff-cf5b27f028e7",
+    "data": [
+      {
+        "text": "我想要找有 @effect_list:effect1 效果的 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133996
+  },
+  {
+    "id": "2f729549-dff8-4010-987e-b111380f88ea",
+    "data": [
+      {
+        "text": "我比較喜歡 @color_list:color 的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133996
+  },
+  {
+    "id": "563cfd87-b90a-4c5f-8c93-5a7d3e6b6f6c",
+    "data": [
+      {
+        "text": "我要 @color_list:color 的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133996
+  },
+  {
+    "id": "0e83decc-fd3b-41ec-b9eb-189d9d212c6a",
+    "data": [
+      {
+        "text": "我要 @brand_list:brand 的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133996
+  },
+  {
+    "id": "faa1b026-5e66-4322-892a-f53243a3824d",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501133620
+  },
+  {
+    "id": "3bc3587c-78d0-4f84-b243-2bdcc8437e56",
+    "data": [
+      {
+        "text": "我@sentiment_list:sentiment @where_list:where @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 1,
+    "updated": 1501133361
+  },
+  {
+    "id": "32540d04-a37c-4a82-9798-38feacafa6aa",
+    "data": [
+      {
+        "text": "@brand_list:brand 的 @item_list:item 很 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501128303
+  },
+  {
+    "id": "5eada58c-efc9-4c14-bfbd-4837819a4f9f",
+    "data": [
+      {
+        "text": "我覺得 @brand_list:brand 的 @item_list:item 很 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501128151
+  },
+  {
+    "id": "7e665568-7277-469a-9c24-c3e0fe408d28",
+    "data": [
+      {
+        "text": "我 @sentiment_list:sentiment @brand_list:brand 的 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501128151
+  }
+]

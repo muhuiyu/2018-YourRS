@@ -1,0 +1,2278 @@
+[
+  {
+    "id": "0157d8b1-862a-4178-8413-9388761fdf7f",
+    "data": [
+      {
+        "text": "有",
+        "userDefined": false
+      },
+      {
+        "text": "文章",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504944138
+  },
+  {
+    "id": "ea0c1a44-565d-474a-aad2-6bc0eb84d193",
+    "data": [
+      {
+        "text": "有什麼",
+        "userDefined": false
+      },
+      {
+        "text": "心得文",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504944138
+  },
+  {
+    "id": "882be40b-f260-4cb9-892a-5cdb647247be",
+    "data": [
+      {
+        "text": "能",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "一下嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504934457
+  },
+  {
+    "id": "c40c3a04-0f04-45a1-ad50-2d2bf2dccddb",
+    "data": [
+      {
+        "text": "保濕",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": true
+      },
+      {
+        "text": "效果",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "好嗎",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504926396
+  },
+  {
+    "id": "189b4229-ed06-4d22-b954-d05d743f9795",
+    "data": [
+      {
+        "text": "粉底液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "產品名稱",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504921823
+  },
+  {
+    "id": "76945d97-fb0b-482c-aca6-0c74ddcb731f",
+    "data": [
+      {
+        "text": "有什麼",
+        "userDefined": false
+      },
+      {
+        "text": "效果",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504857034
+  },
+  {
+    "id": "c24eca3e-281e-46e1-bbdc-f7083518c030",
+    "data": [
+      {
+        "text": "有其他",
+        "userDefined": false
+      },
+      {
+        "text": "產品",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "簡介",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504857034
+  },
+  {
+    "id": "a86be0e8-7c1b-4da4-95aa-27657b650853",
+    "data": [
+      {
+        "text": "有其他",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504857034
+  },
+  {
+    "id": "96b5bb22-20f9-46f9-a2e7-d5130f8e57a9",
+    "data": [
+      {
+        "text": "有更多",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504857034
+  },
+  {
+    "id": "87a18630-f5c1-4261-8a48-98048043793e",
+    "data": [
+      {
+        "text": "有更多",
+        "userDefined": false
+      },
+      {
+        "text": "產品",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504857034
+  },
+  {
+    "id": "8633f328-53aa-49f1-bb43-b938ba950883",
+    "data": [
+      {
+        "text": "他有什麼",
+        "userDefined": false
+      },
+      {
+        "text": "功能",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504843441
+  },
+  {
+    "id": "ac87204c-c2ba-42b3-882e-4f38557e660e",
+    "data": [
+      {
+        "text": "霧面",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504690170
+  },
+  {
+    "id": "ab91abe0-04c4-4db3-950c-c70902d9a5df",
+    "data": [
+      {
+        "text": "有",
+        "userDefined": false
+      },
+      {
+        "text": "圖",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "ㄇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504689899
+  },
+  {
+    "id": "b0498034-1353-405a-94ba-9d04f4f06cc0",
+    "data": [
+      {
+        "text": "有沒有",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": true
+      },
+      {
+        "text": "效果",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "的相關",
+        "userDefined": false
+      },
+      {
+        "text": "評論",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504687759
+  },
+  {
+    "id": "e156336f-7aae-4e5c-ae92-d682dad211a1",
+    "data": [
+      {
+        "text": "滋潤",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "效果",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "如何",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504684391
+  },
+  {
+    "id": "37247609-0f6f-4440-ac58-6693ba74df0c",
+    "data": [
+      {
+        "text": "有多",
+        "userDefined": false
+      },
+      {
+        "text": "好上色",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504582145
+  },
+  {
+    "id": "4bf40c35-f229-40b6-b3ca-002c574426cb",
+    "data": [
+      {
+        "text": "可以",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "下嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504514284
+  },
+  {
+    "id": "2d785573-161d-48fc-b673-4ca0a76a4b15",
+    "data": [
+      {
+        "text": "他",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是用什麼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504145083
+  },
+  {
+    "id": "3e45e06f-383a-4a66-9459-5046815fbb7a",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "什麼",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "f1709434-86d4-4d70-898c-f45f261e25be",
+    "data": [
+      {
+        "text": "我想知道",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "f604ba9a-6199-456a-a4d7-645814ef3d6e",
+    "data": [
+      {
+        "text": "那",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是什麼",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "9ff94df9-135f-4d37-9408-73bebfd1e26f",
+    "data": [
+      {
+        "text": "他",
+        "userDefined": false
+      },
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "樣",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "多少",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "f8644fc1-26bb-4dbd-abd4-df736bb606a4",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "好用嗎",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "bb96a82b-b87e-4fcd-9cf8-c294a6288629",
+    "data": [
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "什麼",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "5de0cae8-5f90-4553-b9a4-cfa0ea1089b9",
+    "data": [
+      {
+        "text": "他的",
+        "userDefined": false
+      },
+      {
+        "text": "粉底液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是什麼",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "08257490-70fc-44b2-82af-97e34d62e096",
+    "data": [
+      {
+        "text": "他畫",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "有什麼祕訣嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "8ca45145-41d7-4221-bf27-a0fcf60dd5aa",
+    "data": [
+      {
+        "text": "他",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "有什麼",
+        "userDefined": false
+      },
+      {
+        "text": "訣竅",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "2b25cd6f-f85d-49c2-87f2-3ca693574c65",
+    "data": [
+      {
+        "text": "他的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼畫",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "61f3e3da-0be3-4a6c-9bce-9c9a3ec569b8",
+    "data": [
+      {
+        "text": "他的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是",
+        "userDefined": false
+      },
+      {
+        "text": "哪家",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "1aef4332-37aa-4f3c-90a1-395ac6edbc0b",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼畫",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "ad61779a-b27e-448c-89fc-9ac51d2aa66f",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "有什麼相關",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "348eb04b-f38a-48d9-b7bb-4c8782a760e7",
+    "data": [
+      {
+        "text": "有他用的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "的相關",
+        "userDefined": false
+      },
+      {
+        "text": "資訊",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "a3548ee3-4072-408a-878f-dd94f69c52ab",
+    "data": [
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是哪個",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "4b98b3eb-12f4-4f34-8768-7177c86b3c36",
+    "data": [
+      {
+        "text": "我想知道他用的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "59fcaae1-7739-4fcd-952d-a09275e6a99e",
+    "data": [
+      {
+        "text": "有他用的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "簡介",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "323de4a8-153c-49cf-805f-9cb020e302b5",
+    "data": [
+      {
+        "text": "有哪些",
+        "userDefined": false
+      },
+      {
+        "text": "功效",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504061930
+  },
+  {
+    "id": "c1d2b429-86b1-4647-b0f6-dee0d6d4b1fc",
+    "data": [
+      {
+        "text": "有哪些",
+        "userDefined": false
+      },
+      {
+        "text": "功能",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503888507
+  },
+  {
+    "id": "915eaf39-0c3a-4e18-8e27-653b12bceddb",
+    "data": [
+      {
+        "text": "有其他",
+        "userDefined": false
+      },
+      {
+        "text": "品牌",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503823745
+  },
+  {
+    "id": "208a439e-4afe-44cd-bc62-3a33fd2fe8b9",
+    "data": [
+      {
+        "text": "它",
+        "userDefined": false
+      },
+      {
+        "text": "哪裡好",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503680103
+  },
+  {
+    "id": "3b44a1cf-10b5-41e4-871b-631041899255",
+    "data": [
+      {
+        "text": "那",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "訣竅",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "呢",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "4d7252a4-9ff3-4511-aa65-6b90d13996c7",
+    "data": [
+      {
+        "text": "有什麼",
+        "userDefined": false
+      },
+      {
+        "text": "效用",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4d7252a4-9ff3-4511-aa65-6b90d13996c7",
+    "data": [
+      {
+        "text": "有什麼效用",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502430613
+  },
+  {
+    "id": "68817b75-1067-44aa-b7c2-1c4a227c1a08",
+    "data": [
+      {
+        "text": "他的",
+        "userDefined": false
+      },
+      {
+        "text": "除痘",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "功能",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼樣",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502348460
+  },
+  {
+    "id": "f0777581-93df-489f-81db-9baf8d52973e",
+    "data": [
+      {
+        "text": "有",
+        "userDefined": false
+      },
+      {
+        "text": "照片",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502262470
+  },
+  {
+    "id": "d508a21e-cab7-425d-9cdf-424491aa62dd",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "是什麼",
+        "userDefined": false
+      },
+      {
+        "text": "東西",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502179162
+  },
+  {
+    "id": "80a94c49-b984-4ef0-8f2b-81490ecea789",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "很",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502179162
+  },
+  {
+    "id": "2049fc94-2810-42e3-bc93-d1fb831a93ee",
+    "data": [
+      {
+        "text": "很",
+        "userDefined": false
+      },
+      {
+        "text": "貴",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502179162
+  },
+  {
+    "id": "91492350-a3ad-4d41-a40a-9b1b42e39fd0",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501825016
+  },
+  {
+    "id": "89ec46cd-3b86-4d72-8d7b-3d495831922f",
+    "data": [
+      {
+        "text": "玩美百變馬克唇彩筆",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      },
+      {
+        "text": "多少",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501776840
+  },
+  {
+    "id": "81f994a1-d889-4a4e-b741-bab128d6413b",
+    "data": [
+      {
+        "text": "那",
+        "userDefined": false
+      },
+      {
+        "text": "kate",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "有哪些",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501750435
+  },
+  {
+    "id": "ab36bac6-1df9-457a-9709-4e86a1b58977",
+    "data": [
+      {
+        "text": "我想知道",
+        "userDefined": false
+      },
+      {
+        "text": "小心機腮紅",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      },
+      {
+        "text": "有哪些",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501750223
+  },
+  {
+    "id": "44f582ba-737a-49cd-b8b8-1b24bdbdc42c",
+    "data": [
+      {
+        "text": "給我",
+        "userDefined": false
+      },
+      {
+        "text": "簡介",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      },
+      {
+        "text": "一下",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501749379
+  },
+  {
+    "id": "8655cf9c-bf3e-45ad-825c-73a3fdc831c0",
+    "data": [
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "是什麼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501744263
+  },
+  {
+    "id": "733ec186-5b04-4b53-8c65-0e96495413d4",
+    "data": [
+      {
+        "text": "他的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是什麼",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501659317
+  },
+  {
+    "id": "056d18e3-8061-4023-bd1a-d0edd87772f8",
+    "data": [
+      {
+        "text": "給我",
+        "userDefined": false
+      },
+      {
+        "text": "簡介",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "下",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501598542
+  },
+  {
+    "id": "fd7aa0aa-8c7e-496b-a861-a85801f6214a",
+    "data": [
+      {
+        "text": "粉色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "長怎樣",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501598542
+  },
+  {
+    "id": "95c33b64-52b4-44c5-a302-687ff0cfdff1",
+    "data": [
+      {
+        "text": "請給我",
+        "userDefined": false
+      },
+      {
+        "text": "粉紅色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "圖片",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501573131
+  },
+  {
+    "id": "dea5f96f-1841-4e93-bf0b-d0ed4e67eedc",
+    "data": [
+      {
+        "text": "我想看",
+        "userDefined": false
+      },
+      {
+        "text": "粉紅色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "圖片",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501572625
+  },
+  {
+    "id": "ca2b8d6c-087f-4ca3-8203-68d610694300",
+    "data": [
+      {
+        "text": "紫色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的多少",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501572625
+  },
+  {
+    "id": "22aef1ab-78c5-4e64-8b1b-26b34b2caf08",
+    "data": [
+      {
+        "text": "@color_list:color 的 @slot_list:slot 如何",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501570795
+  },
+  {
+    "id": "55fb5f99-55aa-4b66-913f-99becbe69139",
+    "data": [
+      {
+        "text": "我想問",
+        "userDefined": false
+      },
+      {
+        "text": "小心機腮紅",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": "有哪些",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501570184
+  },
+  {
+    "id": "bbe3659e-6554-4a22-8c49-b4713280004f",
+    "data": [
+      {
+        "text": "請告訴我",
+        "userDefined": false
+      },
+      {
+        "text": "maybelline",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": " 的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      },
+      {
+        "text": "好不好用",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501570184
+  },
+  {
+    "id": "b5ba6e61-7c6c-4fa5-a423-09aa78e31889",
+    "data": [
+      {
+        "text": "請給我 ",
+        "userDefined": false
+      },
+      {
+        "text": "maybelline",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "眉筆",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501570184
+  },
+  {
+    "id": "4dfe2566-c846-4c16-abdf-eca1607d90cf",
+    "data": [
+      {
+        "text": "有",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "產品的",
+        "userDefined": false
+      },
+      {
+        "text": "簡介",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501570184
+  },
+  {
+    "id": "6db8fb55-26a9-4101-88a5-a31711ce1f97",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "是",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼樣",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的產品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501570184
+  },
+  {
+    "id": "991ee475-b3c6-48c4-bcb4-b50b0be866de",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "好嗎",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501570184
+  },
+  {
+    "id": "5bd1b763-b54c-474a-b2e2-f51173b90ace",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "用起來怎麼樣",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501569180
+  },
+  {
+    "id": "5c1a03dc-a4dc-47e4-ab27-31caa2ceb5f0",
+    "data": [
+      {
+        "text": "繽紛積木巧拼眼影",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      },
+      {
+        "text": "多少",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "89dbe325-7d28-4fac-96a8-4772847f3112",
+    "data": [
+      {
+        "text": "小心機腮紅",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      },
+      {
+        "text": "好用嗎",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501556034
+  },
+  {
+    "id": "eb9790c2-ad00-4daa-9c27-f86b882eacca",
+    "data": [
+      {
+        "text": "好氣色CC輕唇膏",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": true
+      },
+      {
+        "text": "有哪些",
+        "userDefined": false
+      },
+      {
+        "text": "顏色",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501556034
+  },
+  {
+    "id": "de9ea7b8-9235-476d-90ce-f106e944e398",
+    "data": [
+      {
+        "text": "@name:name 有哪些 @slot_list:slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501556034
+  },
+  {
+    "id": "06fcb6c3-41c8-4b64-9dbd-d460cbf7dde3",
+    "data": [
+      {
+        "text": "我想知道",
+        "userDefined": false
+      },
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "粉底液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "是否",
+        "userDefined": false
+      },
+      {
+        "text": "好用",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501492992
+  },
+  {
+    "id": "27c5a34d-b03a-4b88-9b35-ecc31baa474c",
+    "data": [
+      {
+        "text": "我想要有",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "效果",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501492826
+  },
+  {
+    "id": "34d62418-5ba4-475a-8f69-17655ebee867",
+    "data": [
+      {
+        "text": "最好可以有",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect",
+        "meta": "@effect_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "效果",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501492799
+  },
+  {
+    "id": "64ac5824-a781-4e75-8034-9b353785253b",
+    "data": [
+      {
+        "text": "多少",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501468505
+  },
+  {
+    "id": "f12e2589-8c34-415f-a3aa-29d779c5b03c",
+    "data": [
+      {
+        "text": "問個",
+        "userDefined": false
+      },
+      {
+        "text": "價碼",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501468505
+  },
+  {
+    "id": "277bcf40-0512-4bc3-b506-ee9538597d43",
+    "data": [
+      {
+        "text": "問個",
+        "userDefined": false
+      },
+      {
+        "text": "價",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501468505
+  },
+  {
+    "id": "c10772b3-898b-4a6e-a4f3-a62ecb1f0c61",
+    "data": [
+      {
+        "text": "他的",
+        "userDefined": false
+      },
+      {
+        "text": "價錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "多少",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501468375
+  },
+  {
+    "id": "83c0dfad-64ed-4da9-af11-14ad5bd887a3",
+    "data": [
+      {
+        "text": "這",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "是哪個",
+        "userDefined": false
+      },
+      {
+        "text": "牌子",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501468375
+  },
+  {
+    "id": "7cf0be99-ec07-40d8-a084-ec352ac756b3",
+    "data": [
+      {
+        "text": "我想知道",
+        "userDefined": false
+      },
+      {
+        "text": "價錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501466996
+  },
+  {
+    "id": "f0ae145a-a49b-45d5-b489-d1c0e56f7c59",
+    "data": [
+      {
+        "text": "告訴我",
+        "userDefined": false
+      },
+      {
+        "text": "價錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501466996
+  },
+  {
+    "id": "546b293c-4b42-4486-9617-e52b9b1546f1",
+    "data": [
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "好嗎",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501468706
+  },
+  {
+    "id": "51e14877-7305-4309-8b24-4e55f3188f1f",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "黃色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": true
+      },
+      {
+        "text": " 的",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "多少",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501141334
+  },
+  {
+    "id": "e0c3c566-728c-4dda-8bca-2a2822654a97",
+    "data": [
+      {
+        "text": "粉底液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": true
+      },
+      {
+        "text": "多少",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "alias": "slot",
+        "meta": "@slot_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501139274
+  },
+  {
+    "id": "dc093685-dfab-4f0c-9923-4aa7baf10eb3",
+    "data": [
+      {
+        "text": "你覺得",
+        "userDefined": false
+      },
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": true
+      },
+      {
+        "text": "雷",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501136597
+  },
+  {
+    "id": "c19e4bd3-92f5-4fe7-ac57-e359db0e6b64",
+    "data": [
+      {
+        "text": "@brand_list:brand 的@item_list:item 的 @effect_list:effect 效果 @sentiment_list:sentiment 嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501135019
+  },
+  {
+    "id": "26112d86-23cc-486f-948e-4026dee2b894",
+    "data": [
+      {
+        "text": "@brand_list:brand 的@color_list:color @item_list:item 是不是很 @effect_list:effect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501135019
+  },
+  {
+    "id": "94296ff6-5030-4be3-8dd1-f934d0d2d64c",
+    "data": [
+      {
+        "text": "我想知道 @where_list:where 的 @slot_list:slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133527
+  },
+  {
+    "id": "55b823f9-4f04-4a2d-bd75-4604edd05a0e",
+    "data": [
+      {
+        "text": "告訴我 @slot_list:slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133527
+  },
+  {
+    "id": "9a0600cd-345e-45c2-be86-4a6f30698577",
+    "data": [
+      {
+        "text": "@slot_list:slot 怎麼樣",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133527
+  },
+  {
+    "id": "8233f2bd-c1f8-4426-9d2f-c19863d6425e",
+    "data": [
+      {
+        "text": "@where_list:where @item_list:item 的 @slot_list:slot  如何",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133527
+  },
+  {
+    "id": "5c44670d-f8f6-4d03-a48f-e86b4af4f0ce",
+    "data": [
+      {
+        "text": "我要問@brand_list:brand 的@item_list:item 的@slot_list:slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  }
+]

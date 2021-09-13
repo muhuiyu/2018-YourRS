@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "f5645183-8d4f-44f3-b188-4b543274ee3f",
+    "data": [
+      {
+        "text": "隨便來個",
+        "userDefined": false
+      },
+      {
+        "text": "產品",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1504929657
+  },
+  {
+    "id": "6f32707c-6e7f-49cf-9579-15d781dbcb06",
+    "data": [
+      {
+        "text": "來個底妝吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504922859
+  },
+  {
+    "id": "34c4a26d-3a2c-4ccd-8a08-81bea76a3fc1",
+    "data": [
+      {
+        "text": "有什麼",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504509244
+  },
+  {
+    "id": "62f7fb9f-bfb0-42f6-8ff8-a8ebcacf24e8",
+    "data": [
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "ㄋ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504080868
+  },
+  {
+    "id": "2b86070d-eb46-4fee-9e80-9cfd825b2443",
+    "data": [
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504080862
+  },
+  {
+    "id": "6fad845d-8964-4f6d-9ebe-66d79ce35160",
+    "data": [
+      {
+        "text": "問澳洲Natio玫瑰",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect1",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "面膜",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504062353
+  },
+  {
+    "id": "2694142d-de44-4259-bf62-bb268cad2f1c",
+    "data": [
+      {
+        "text": "有",
+        "userDefined": false
+      },
+      {
+        "text": "3m",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "產品",
+        "alias": "slot_list",
+        "meta": "@slot_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504062353
+  },
+  {
+    "id": "22fff582-3a34-4efb-84b5-1ef8a2f1f7b9",
+    "data": [
+      {
+        "text": "我想要找",
+        "userDefined": false
+      },
+      {
+        "text": "3M",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "洗面乳",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1503969896
+  },
+  {
+    "id": "0512dfd8-64f2-4d34-94e7-af36305dcfa3",
+    "data": [
+      {
+        "text": "有推薦什麼商品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503884387
+  },
+  {
+    "id": "a3ed78d3-9f00-4eff-8221-4a8804eaac33",
+    "data": [
+      {
+        "text": "有推薦的商品嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503823115
+  },
+  {
+    "id": "0743e30e-da09-4519-b488-3693447af8c0",
+    "data": [
+      {
+        "text": "隨便給我",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "個東西",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503636000
+  },
+  {
+    "id": "5feecdab-2c53-411d-b2ae-ce28163b427a",
+    "data": [
+      {
+        "text": "有推薦的 @item_list:item 嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1503636000
+  },
+  {
+    "id": "28fc0955-50d1-41ab-a7cc-d153fcaad50f",
+    "data": [
+      {
+        "text": "我想要",
+        "userDefined": false
+      },
+      {
+        "text": "不掉色",
+        "alias": "effect1",
+        "meta": "@effect_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "唇膏",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502344789
+  },
+  {
+    "id": "1e7d559f-07fe-4187-a9b1-d172aa1995b7",
+    "data": [
+      {
+        "text": "可以給我",
+        "userDefined": false
+      },
+      {
+        "text": "便宜的",
+        "alias": "price_limit",
+        "meta": "@price_limit",
+        "userDefined": false
+      },
+      {
+        "text": "防曬乳",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502344789
+  },
+  {
+    "id": "219d9bb3-1928-47c7-9e81-9d782f142da2",
+    "data": [
+      {
+        "text": "我要找",
+        "userDefined": false
+      },
+      {
+        "text": "便宜的",
+        "alias": "price_limit",
+        "meta": "@price_limit",
+        "userDefined": false
+      },
+      {
+        "text": "防曬乳",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502344789
+  },
+  {
+    "id": "79df2ffb-e31a-4631-b5fa-01336c576b15",
+    "data": [
+      {
+        "text": "有沒有除",
+        "userDefined": false
+      },
+      {
+        "text": "粉刺",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "洗面乳",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502154742
+  },
+  {
+    "id": "b78c03a5-aa16-410a-b025-ba9ee5b2fd01",
+    "data": [
+      {
+        "text": "給我長",
+        "userDefined": false
+      },
+      {
+        "text": "痘痘",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": true
+      },
+      {
+        "text": "可以用的",
+        "userDefined": false
+      },
+      {
+        "text": "洗面乳",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502154657
+  },
+  {
+    "id": "d63184cb-6328-4efe-959b-4b52d54b666a",
+    "data": [
+      {
+        "text": "隨便來個",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": true
+      },
+      {
+        "text": "吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502087067
+  },
+  {
+    "id": "ffdc8bfd-7638-45a2-a182-4cc0cf633590",
+    "data": [
+      {
+        "text": "推薦我一些美妝產品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502154657
+  },
+  {
+    "id": "235d75b6-0bef-44f3-811e-38abba4d8cb9",
+    "data": [
+      {
+        "text": "你可以推薦我美妝產品嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1502154657
+  },
+  {
+    "id": "69c1791e-f667-47a8-97c7-31b95c2e34bd",
+    "data": [
+      {
+        "text": "推薦我",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "些美妝產品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502082730
+  },
+  {
+    "id": "cbcf0471-38c9-4214-a6b1-6666d0a38670",
+    "data": [
+      {
+        "text": "長",
+        "userDefined": false
+      },
+      {
+        "text": "痘痘",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": true
+      },
+      {
+        "text": "要用什麼",
+        "userDefined": false
+      },
+      {
+        "text": "洗面乳",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1502154657
+  },
+  {
+    "id": "37c30db6-47ba-4bfe-a660-655d37b88efc",
+    "data": [
+      {
+        "text": "這",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "裡有沒有",
+        "userDefined": false
+      },
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "唇膏",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502077753
+  },
+  {
+    "id": "8a0d4791-a4e2-4bd4-ada5-c4f61568f657",
+    "data": [
+      {
+        "text": "給我",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "！",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502077753
+  },
+  {
+    "id": "c7d36d59-33c2-475e-92be-2565970cdd50",
+    "data": [
+      {
+        "text": "寶貝給我個",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502077753
+  },
+  {
+    "id": "94e58a5f-4abd-42e9-ab8a-93f5f23c35f2",
+    "data": [
+      {
+        "text": "親你",
+        "userDefined": false
+      },
+      {
+        "text": "這",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "裡有",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502077753
+  },
+  {
+    "id": "e2534a60-51d8-4f5c-ad7f-a7f2c86f9d70",
+    "data": [
+      {
+        "text": "親愛的來個",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502077753
+  },
+  {
+    "id": "3e3fad2f-cb42-466e-bde8-c724ec171728",
+    "data": [
+      {
+        "text": "我想要找",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "點好玩的東西",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501826814
+  },
+  {
+    "id": "8b195a57-44eb-42ba-a530-9e5d32db800b",
+    "data": [
+      {
+        "text": "我想找有",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect1",
+        "meta": "@effect_list",
+        "userDefined": false
+      },
+      {
+        "text": "功能的",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501826523
+  },
+  {
+    "id": "0423d678-1223-4a8a-b5cd-9d85872958e2",
+    "data": [
+      {
+        "text": "來個",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501816204
+  },
+  {
+    "id": "c17cf7f7-95d2-47a0-b53e-3d8208b37141",
+    "data": [
+      {
+        "text": "我想要",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "37f0a6bc-84ae-4565-a34c-8b3ad3659743",
+    "data": [
+      {
+        "text": "我想要找",
+        "userDefined": false
+      },
+      {
+        "text": "閃耀女神防水眼彩筆",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501776821
+  },
+  {
+    "id": "1f1ea4ba-0ae7-4bcf-a051-e731700722f1",
+    "data": [
+      {
+        "text": "有沒有",
+        "userDefined": false
+      },
+      {
+        "text": "channel",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "香水",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501749388
+  },
+  {
+    "id": "ba84f1ab-68c4-4b88-ab16-a3f3ce6829bc",
+    "data": [
+      {
+        "text": "我想找",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501739630
+  },
+  {
+    "id": "61791205-d1e6-4b55-b046-92c39b64c457",
+    "data": [
+      {
+        "text": "推薦我些什麼吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501739630
+  },
+  {
+    "id": "e1a78830-75b4-4b19-bcf9-b2f1e939fd62",
+    "data": [
+      {
+        "text": "推個好物",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501739630
+  },
+  {
+    "id": "257360e2-64e5-4340-9fd9-a3e537bde81d",
+    "data": [
+      {
+        "text": "來個好東西",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501739630
+  },
+  {
+    "id": "ad2d3a99-676d-43d2-8a90-036a165bbbd1",
+    "data": [
+      {
+        "text": "隨便",
+        "userDefined": false
+      },
+      {
+        "text": "介紹",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "些什麼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501739630
+  },
+  {
+    "id": "b2f8580f-c05a-4601-88d8-26b74f842c03",
+    "data": [
+      {
+        "text": "來點什麼吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "13165169-06f1-420c-92bc-150fb2198c00",
+    "data": [
+      {
+        "text": "隨便來點什麼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "de916d92-77c5-43de-9424-427be60fc214",
+    "data": [
+      {
+        "text": "價錢",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "以上",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "有嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501693861
+  },
+  {
+    "id": "013ad949-c13f-470f-b319-4692d8c07976",
+    "data": [
+      {
+        "text": "你們這裡有沒有 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 1,
+    "updated": 1501693861
+  },
+  {
+    "id": "d6a0ba0b-ea75-4a14-b0e9-f7fd0fd5c0f1",
+    "data": [
+      {
+        "text": "我要 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501693861
+  },
+  {
+    "id": "9a90f52b-8ebb-4686-bab1-2666025b0663",
+    "data": [
+      {
+        "text": "我想要 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501693861
+  },
+  {
+    "id": "89aad34b-aa41-448a-8ddb-77ea7d73b71d",
+    "data": [
+      {
+        "text": "我想要找 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501693861
+  },
+  {
+    "id": "be57b418-5490-4f89-b6be-9ae294ad8def",
+    "data": [
+      {
+        "text": "我想要",
+        "userDefined": false
+      },
+      {
+        "text": "咖啡色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "1028",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501598569
+  },
+  {
+    "id": "0dd7673a-1191-4081-966b-d4e5216f15ff",
+    "data": [
+      {
+        "text": "我想要",
+        "userDefined": false
+      },
+      {
+        "text": "咖啡色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501598447
+  },
+  {
+    "id": "6d7c750c-4a89-424b-aa38-1a12dadaec55",
+    "data": [
+      {
+        "text": "幫我找",
+        "userDefined": false
+      },
+      {
+        "text": "露華濃",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "棕色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501597490
+  },
+  {
+    "id": "ee6f3f7c-79af-4812-ab31-3620bd7653da",
+    "data": [
+      {
+        "text": "我想找",
+        "userDefined": false
+      },
+      {
+        "text": "小心機腮紅",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501556797
+  },
+  {
+    "id": "6f0dbb0e-c9e4-43e8-b8fb-5d0637e4c136",
+    "data": [
+      {
+        "text": "我要找",
+        "userDefined": false
+      },
+      {
+        "text": "三千元以下",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501598696
+  },
+  {
+    "id": "5a2c1df5-f5dd-4e53-a201-391959b0f30a",
+    "data": [
+      {
+        "text": "好氣色",
+        "userDefined": false
+      },
+      {
+        "text": "CC輕唇膏有哪些顏色",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501598696
+  },
+  {
+    "id": "db364afb-b323-4b31-b3b2-6bd06dd9620c",
+    "data": [
+      {
+        "text": "你這裡有@name:name 嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501556195
+  },
+  {
+    "id": "6493a02f-c496-473f-8f20-36fe7a265dd8",
+    "data": [
+      {
+        "text": "我想找",
+        "userDefined": false
+      },
+      {
+        "text": "超完美自動眉筆",
+        "alias": "name",
+        "meta": "@name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7fc3a2b7-b5e7-4180-9070-bd9518f2d231",
+    "data": [
+      {
+        "text": "我想找@name:name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501555865
+  },
+  {
+    "id": "e303429f-701d-4940-8e9c-26f26f2e12a4",
+    "data": [
+      {
+        "text": "快給我",
+        "userDefined": false
+      },
+      {
+        "text": "眼線",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "哼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501554407
+  },
+  {
+    "id": "132e3246-c740-434c-bc1d-81ba8096a37f",
+    "data": [
+      {
+        "text": "快推薦我東西哼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501554407
+  },
+  {
+    "id": "063af0dc-fbee-41a7-a1c6-ef8f4f4398b2",
+    "data": [
+      {
+        "text": "來個好東西吧哼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501554407
+  },
+  {
+    "id": "76ed6ad0-7a9e-4f1f-a62b-48d1afad60ac",
+    "data": [
+      {
+        "text": "推薦個好東西吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501554407
+  },
+  {
+    "id": "46ab3691-148c-4d68-ab42-9dd7c2a09706",
+    "data": [
+      {
+        "text": "我想找一個",
+        "userDefined": false
+      },
+      {
+        "text": "睫毛膏",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501509054
+  },
+  {
+    "id": "0817145f-cccb-4702-8587-9bba6c5f6769",
+    "data": [
+      {
+        "text": "我要",
+        "userDefined": false
+      },
+      {
+        "text": "300",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "元",
+        "userDefined": false
+      },
+      {
+        "text": "以下",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": false
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "粉底液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501477273
+  },
+  {
+    "id": "4d056fbc-21f3-4a0a-bbd0-052befbf08e1",
+    "data": [
+      {
+        "text": "給我",
+        "userDefined": false
+      },
+      {
+        "text": "開架",
+        "alias": "path",
+        "meta": "@path_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501221026
+  },
+  {
+    "id": "bd895bf4-e5b4-429f-81df-7052c1f440bf",
+    "data": [
+      {
+        "text": "我想要找 @path_list:path 的@item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501221026
+  },
+  {
+    "id": "f922b93f-4ac6-49fc-8fc2-96d01e5b3223",
+    "data": [
+      {
+        "text": "我想找",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "元",
+        "userDefined": false
+      },
+      {
+        "text": "以下",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": true
+      },
+      {
+        "text": "的商品",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501209114
+  },
+  {
+    "id": "72f10ac4-a83e-4cfb-8d58-6edcc0913a41",
+    "data": [
+      {
+        "text": "有沒有",
+        "userDefined": false
+      },
+      {
+        "text": "不到",
+        "alias": "bound",
+        "meta": "@bound_list",
+        "userDefined": true
+      },
+      {
+        "text": "300",
+        "alias": "price",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "元的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e796e717-2166-4ac4-a14f-4713d263dc60",
+    "data": [
+      {
+        "text": "你們這裡有沒有",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501206846
+  },
+  {
+    "id": "596acae7-adf7-4034-84ac-5729d67f692b",
+    "data": [
+      {
+        "text": "給我來個",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      },
+      {
+        "text": "吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501206597
+  },
+  {
+    "id": "c4d05c2d-4c8d-4bce-84c5-a71a012b3928",
+    "data": [
+      {
+        "text": "有沒有",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501204442
+  },
+  {
+    "id": "65e1c001-536f-42c9-b5d7-8df927fbcf07",
+    "data": [
+      {
+        "text": "我要 @brand_list:brand 的 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165801
+  },
+  {
+    "id": "ed1f391f-de82-4ba9-90d1-ab3ec77a50f5",
+    "data": [
+      {
+        "text": "我想要 @brand_list:brand 的 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501165801
+  },
+  {
+    "id": "82732137-0ff1-4b7e-be8e-144098341755",
+    "data": [
+      {
+        "text": "我要找",
+        "userDefined": false
+      },
+      {
+        "text": "espoir",
+        "alias": "brand",
+        "meta": "@brand_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼影",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501158337
+  },
+  {
+    "id": "ef3516aa-9722-4c2b-bfc4-a39b8fe6e3ac",
+    "data": [
+      {
+        "text": "我想找@item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 1,
+    "updated": 1501141377
+  },
+  {
+    "id": "76a0eeda-b31a-4199-80b1-dcb30e392fe6",
+    "data": [
+      {
+        "text": "幫我找個",
+        "userDefined": false
+      },
+      {
+        "text": "口紅",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501135259
+  },
+  {
+    "id": "ff2e424d-dac0-4791-bbad-d17ec817de13",
+    "data": [
+      {
+        "text": "我要 @effect_list:effect1 跟 @effect_list:effect2 的 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501134865
+  },
+  {
+    "id": "2831aace-63c6-4966-bdd3-eeb8467e8a51",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "要找個",
+        "userDefined": false
+      },
+      {
+        "text": "保濕",
+        "alias": "effect1",
+        "meta": "@effect_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "粉底液",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501136253
+  },
+  {
+    "id": "94ccd97f-2357-42b3-be3c-d0b4bba18f5f",
+    "data": [
+      {
+        "text": "你這裡有沒有",
+        "userDefined": false
+      },
+      {
+        "text": "黑色",
+        "alias": "color",
+        "meta": "@color_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      },
+      {
+        "text": "眼線筆",
+        "alias": "item",
+        "meta": "@item_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501134751
+  },
+  {
+    "id": "6bd6e445-6637-4077-9b3f-120a518b62b5",
+    "data": [
+      {
+        "text": "有 @color_list:color 的 @item_list:item 嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501129067
+  },
+  {
+    "id": "09b95a26-5703-4d56-9e43-2cb110c4c1de",
+    "data": [
+      {
+        "text": "來個@effect_list:effect1 的@item_list:item 吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501127292
+  },
+  {
+    "id": "a37a1c2c-4f01-46a2-904d-c427b16ed815",
+    "data": [
+      {
+        "text": "這裡有 @brand_list:brand  @item_list:item 嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501127292
+  },
+  {
+    "id": "d99f8938-288c-48e2-a6e2-9885fa262ab2",
+    "data": [
+      {
+        "text": "我要找 @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501126139
+  }
+]

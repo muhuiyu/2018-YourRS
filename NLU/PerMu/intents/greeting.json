@@ -1,0 +1,38 @@
+{
+  "id": "7595a0ed-0663-4ea0-bb95-690ffe3894e3",
+  "name": "greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bd736b18-a4a6-4e25-90fe-d936dc4d65dd",
+          "dataType": "@sayhello_list",
+          "name": "greeting",
+          "value": "$greeting",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1502091779,
+  "fallbackIntent": false,
+  "events": []
+}

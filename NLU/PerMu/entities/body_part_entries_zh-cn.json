@@ -1,0 +1,102 @@
+[
+  {
+    "value": "hand",
+    "synonyms": [
+      "hand",
+      "手"
+    ]
+  },
+  {
+    "value": "face",
+    "synonyms": [
+      "face",
+      "臉部",
+      "臉",
+      "面部",
+      "面",
+      "面容"
+    ]
+  },
+  {
+    "value": "leg",
+    "synonyms": [
+      "leg",
+      "腿",
+      "兩腿",
+      "雙腿",
+      "左腿",
+      "右腿",
+      "腿部"
+    ]
+  },
+  {
+    "value": "nail",
+    "synonyms": [
+      "nail",
+      "指甲"
+    ]
+  },
+  {
+    "value": "head",
+    "synonyms": [
+      "head",
+      "頭"
+    ]
+  },
+  {
+    "value": "finger",
+    "synonyms": [
+      "finger",
+      "手指",
+      "指頭",
+      "指節",
+      "指尖",
+      "五指",
+      "手指頭"
+    ]
+  },
+  {
+    "value": "neck",
+    "synonyms": [
+      "neck",
+      "脖子",
+      "頸部",
+      "頸",
+      "脖子",
+      "頸項",
+      "脖"
+    ]
+  },
+  {
+    "value": "lips",
+    "synonyms": [
+      "lips",
+      "唇部",
+      "嘴唇",
+      "嘴",
+      "唇",
+      "雙唇"
+    ]
+  },
+  {
+    "value": "skin",
+    "synonyms": [
+      "skin",
+      "肌膚",
+      "皮膚",
+      "膚質"
+    ]
+  },
+  {
+    "value": "foot",
+    "synonyms": [
+      "foot",
+      "腳",
+      "腳底",
+      "腳趾",
+      "足",
+      "足部",
+      "腳部"
+    ]
+  }
+]

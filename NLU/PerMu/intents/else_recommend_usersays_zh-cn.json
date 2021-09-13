@@ -1,0 +1,226 @@
+[
+  {
+    "id": "b9443de3-bd6d-488b-ab82-5dfff97f32b5",
+    "data": [
+      {
+        "text": "其他推薦呢",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504888341
+  },
+  {
+    "id": "b95eb3d0-b596-4633-88b4-60f18c7b9797",
+    "data": [
+      {
+        "text": "換一個",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503994170
+  },
+  {
+    "id": "79517a79-8a0c-4b2c-bf5c-20613d03a0ca",
+    "data": [
+      {
+        "text": "有其他推薦嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "f6a6b036-d235-4b54-94ed-480732609c34",
+    "data": [
+      {
+        "text": "還有別的推薦嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "93e2bd42-6ba6-445d-9465-c6591dde12b2",
+    "data": [
+      {
+        "text": "還有嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "6c7b025f-ab9c-4cc8-9db2-99fb7e2b300b",
+    "data": [
+      {
+        "text": "還有其他的嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "e137edd0-7eb6-4837-9803-80dfdfeea42d",
+    "data": [
+      {
+        "text": "還有別的嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "facc9dab-34d3-4ca1-a2f5-77342d409f93",
+    "data": [
+      {
+        "text": "有沒有其他的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "61ecd522-5156-4870-a6cc-e458bd1df7f6",
+    "data": [
+      {
+        "text": "我想問問有沒有別的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "f833ab82-c5d3-4649-9e45-a084cbf041e8",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想要",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "看別的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "7fc24c84-e977-4120-80d2-6139dcd6e295",
+    "data": [
+      {
+        "text": "你可以給我別的嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "d589a924-e685-451b-9590-159a69165cc1",
+    "data": [
+      {
+        "text": "我要別的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503546694
+  },
+  {
+    "id": "71c2f376-b4d1-4ed6-a5cf-5cd4c9784d27",
+    "data": [
+      {
+        "text": "有其他的嗎",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc6ccfc3-bf02-4e71-8022-a2c3a650f67c",
+    "data": [
+      {
+        "text": "給我其他的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac55a490-5b9d-4dc6-a957-fe1558cef97c",
+    "data": [
+      {
+        "text": "給我別的",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b95384c1-b13e-4634-a294-a4cce4737582",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想要",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "別的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29c9e778-f958-454b-81bf-b669aa83f5aa",
+    "data": [
+      {
+        "text": "有別的嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

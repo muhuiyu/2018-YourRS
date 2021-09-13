@@ -1,0 +1,28 @@
+{
+  "id": "9ee8690f-742d-436c-b8cb-fc27c37ce009",
+  "name": "else_recommend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504888341,
+  "fallbackIntent": false,
+  "events": []
+}

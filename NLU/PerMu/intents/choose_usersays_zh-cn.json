@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ba36f2fb-ba85-4537-b07a-1390cab2a13e",
+    "data": [
+      {
+        "text": "那我想要",
+        "userDefined": false
+      },
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501489363
+  },
+  {
+    "id": "378b2588-00ef-4934-ab5d-fc435830214c",
+    "data": [
+      {
+        "text": "給我 @where_list:where",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133740
+  },
+  {
+    "id": "e108daa9-ac67-4eb3-9fd0-60dbb4e2e7f6",
+    "data": [
+      {
+        "text": "@where_list:where 好了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133740
+  },
+  {
+    "id": "95d0a6ac-d7fa-41a6-9099-394255468cd1",
+    "data": [
+      {
+        "text": "我決定要 @where_list:where",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133740
+  },
+  {
+    "id": "500dc6e5-baa8-4f68-a38d-5c782337765f",
+    "data": [
+      {
+        "text": "我要 @where_list:where @item_list:item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501133740
+  }
+]

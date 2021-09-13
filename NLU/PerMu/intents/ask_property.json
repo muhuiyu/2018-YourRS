@@ -1,0 +1,87 @@
+{
+  "id": "6a6025b5-3d28-477c-8608-1eb106ee8b55",
+  "name": "ask_property",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e07fe4d-2f53-474b-86ff-71385eab460d",
+          "dataType": "@name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        },
+        {
+          "id": "bfeb0960-7c9e-4ec9-92e6-3081966e9d78",
+          "dataType": "@brand_list",
+          "name": "brand",
+          "value": "$brand",
+          "isList": false
+        },
+        {
+          "id": "061a552a-7e8e-4cb3-8d61-574daa01e099",
+          "dataType": "@item_list",
+          "name": "item",
+          "value": "$item",
+          "isList": false
+        },
+        {
+          "id": "cd6fdbde-b439-4812-b040-592ddbc25874",
+          "dataType": "@where_list",
+          "name": "where",
+          "value": "$where",
+          "prompts": [],
+          "defaultValue": "now",
+          "isList": false
+        },
+        {
+          "id": "33d6e119-0d78-41ab-8786-6c539c7caca0",
+          "dataType": "@slot_list",
+          "name": "slot",
+          "value": "$slot",
+          "isList": false
+        },
+        {
+          "id": "e8cca61f-b50f-4e18-b954-46284036d573",
+          "dataType": "@effect_list",
+          "name": "effect",
+          "value": "$effect",
+          "isList": false
+        },
+        {
+          "id": "2698a732-23c8-4a5d-8f00-5322cb737dfc",
+          "dataType": "@sentiment_list",
+          "name": "sentiment",
+          "value": "$sentiment",
+          "isList": false
+        },
+        {
+          "id": "3aa775a6-fc0e-4884-b38f-b148abd830c3",
+          "dataType": "@color_list",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504944138,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "b9b32d67-ad22-4cea-bce0-7cad29431dc1",
+    "data": [
+      {
+        "text": "有推薦的",
+        "userDefined": false
+      },
+      {
+        "text": "濃妝",
+        "alias": "style",
+        "meta": "@style_list",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503914814
+  },
+  {
+    "id": "9e9f7383-f283-4707-ba07-b3e036ada3c2",
+    "data": [
+      {
+        "text": "推薦",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "個",
+        "userDefined": false
+      },
+      {
+        "text": "氣質",
+        "alias": "style",
+        "meta": "@style_list",
+        "userDefined": false
+      },
+      {
+        "text": "妝給我～",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503914266
+  },
+  {
+    "id": "b6158976-f01a-4465-8670-dd325c3ad591",
+    "data": [
+      {
+        "text": "我想找",
+        "userDefined": false
+      },
+      {
+        "text": "上學",
+        "alias": "occasion",
+        "meta": "@occasion_list",
+        "userDefined": true
+      },
+      {
+        "text": "妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503910331
+  },
+  {
+    "id": "94deae98-9a38-43a5-a1f3-e057a5e08bc1",
+    "data": [
+      {
+        "text": "我想找",
+        "userDefined": false
+      },
+      {
+        "text": "上學",
+        "alias": "occasion",
+        "meta": "@occasion_list",
+        "userDefined": true
+      },
+      {
+        "text": "的妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503910323
+  },
+  {
+    "id": "7aa58309-e108-448c-8a79-4de21069948e",
+    "data": [
+      {
+        "text": "教我化妝啦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502419361
+  },
+  {
+    "id": "a1df7e27-ab24-4f2e-a697-64d13f374a6d",
+    "data": [
+      {
+        "text": "我不會化妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502419361
+  },
+  {
+    "id": "e5b0a648-ff0d-42ba-9411-5d1c95c6d5a3",
+    "data": [
+      {
+        "text": "我不太會化妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502419361
+  },
+  {
+    "id": "0e691ff2-de0f-42fc-9461-cb47afa826fc",
+    "data": [
+      {
+        "text": "我不大會化妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502419361
+  },
+  {
+    "id": "b3f93841-be05-49de-810d-70761c6ae55a",
+    "data": [
+      {
+        "text": "給個好妝容吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501727750
+  },
+  {
+    "id": "28371f61-ed80-4943-8474-b536d885f0cf",
+    "data": [
+      {
+        "text": "我要找妝容",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501727750
+  },
+  {
+    "id": "c4212134-7f92-4812-b211-f41ce5027724",
+    "data": [
+      {
+        "text": "隨便來個妝容",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501727750
+  },
+  {
+    "id": "5004d67f-fd4f-4fe4-9876-b79b7f7122fe",
+    "data": [
+      {
+        "text": "隨便推薦我一個妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501727750
+  },
+  {
+    "id": "bcfc178f-b507-47da-97a7-934adbffe6a5",
+    "data": [
+      {
+        "text": "推薦個 @occasion_list:occasion 妝吧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501135901
+  },
+  {
+    "id": "54e3af7e-1c26-4091-965e-779edbf3adf9",
+    "data": [
+      {
+        "text": "我想找 @style_list:style 風格的妝容",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501135901
+  },
+  {
+    "id": "de440ff6-36cf-4991-bc88-852841e5822e",
+    "data": [
+      {
+        "text": "有沒有@occasion_list:occasion 適合的妝容",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501135901
+  },
+  {
+    "id": "19c87329-5599-4f18-8f20-f0c7fdf512b2",
+    "data": [
+      {
+        "text": "我要找 @occasion_list:occasion 可以用的妝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  }
+]

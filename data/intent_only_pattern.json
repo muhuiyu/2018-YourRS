@@ -1,0 +1,120 @@
+{
+    "aboutYou": [
+        "(listener_聽者)?(aboutYou)(是)?(OtherWord_Ques_疑問)",
+        "(OtherWord_Ques_疑問_1)?(給)(speaker_說話者)?(aboutYou)(OtherWord_Ques_疑問_2)?"
+    ],
+    "request": [
+        "(effect)嗎",
+        "質地(effect)嗎",
+        "會不會(effect)",
+        "可以(effect)(嗎)?",
+        "((brand)的)?(name)的(slot)(是什麼|如何)",
+        "((brand)的)?(name)有哪些(slot)",
+        "((brand)(的)?(item)|(where))貴嗎",
+        "(path)買得到嗎",
+        "(where|brand)(的)?(item)(的)?(slot)(是)(OtherWord_Ques_疑問)",
+        "(where|brand)(的)?(item)(是)?什麼(slot)(的)?",
+        "什麼(slot)(的)?",
+        "有(什麼)?(slot)嗎?",
+        "想看(slot)",
+        "(where|brand)(的)?(item)(的)?(effect|效果)好嗎",
+        "(where|brand)?(的)?(item)(的)?((effect)|(slot))((如何)|((effectivity_效果)(QualityValue_品質值)))(呢)?"
+    ],
+    "beauty_care": [
+        "(body)(要)?怎麼(maintain_保養)",
+        "(body)(如何)(maintain_保養)",
+        "(body)(有)?(OtherWord_Ques_疑問_1)?(maintain_保養)(的)?((方式)|(商品_commodity))(OtherWord_Ques_疑問_2)?"
+    ],
+    "choose": [
+        "就(where)吧",
+        "給我(where)",
+        "(where)好了",
+        "(speaker_說話者)?((decide_決定_1)|(要_1)|((decide_決定_2))(要_2))(where|brand|color)(的)?",
+        "(speaker_說話者)?(expect_期望)(where)"
+    ],
+    "else_recommend": [
+        "(有沒有)?(other_另)(的)?((item)|(brand)|推薦|(商品_commodity))(的)?"
+    ],
+    "goodbye": [
+        "(farewell_離別)"
+    ],
+    "greeting": [
+        "(SayHello_問候)"
+    ],
+    "help_decision": [
+        "你覺得(name_1)跟(name_2)哪個比較好",
+        "我不知道要選(name_1)還是(name_2)",
+        "我應該買(name_1)還是(name_2)呢",
+        "幫我選一個(item)",
+        "我不知道該不該買(brand)的(item)",
+        "我應該買(color_1)還是(color_2)的(item)",
+        "(brand_1)跟(brand_2)的(item)哪個比較好",
+        "我不知道要選哪個(item)",
+        "你喜歡哪個(item)",
+        "你覺得哪個(item)比較好"
+    ],
+    "inform": [
+        "我要有(slot)的",
+        "(speaker_說話者)?(not)?((expect_期望)|(FondOf_喜歡))?((brand)|(color)|(effect)|(occasion))",
+        "(speaker_說話者)?((expect_期望)|(FondOf_喜歡))(找)((brand)|(color)|(effect)|(occasion))",
+        "((brand)|(color)|(effect))(還)?(item)((nice_良好)|(bad_壞))",
+        "(price_tooHigh|price_tooLow|informBad)",
+        "(以上|以下)",
+        "(price)"
+    ],
+    "noidea": [
+        "(speaker_說話者)?(not)(know_知道)",
+        "(mediocre_可)"
+    ],
+    "react": [
+        "(sentiment)"
+    ],
+    "reset": [
+        "重(新)來過"
+    ],
+    "search_item": [
+        "幫(我)?找(brand|color|effect)?(的)?(item)",
+        "來個(brand|color|effect)?(的)?(item)吧",
+        "(brand|color|effect)?(的)?(item)有嗎",
+        "有(brand|color|effect)?(的)?(item)嗎",
+        "有什麼好(的)?(brand|color|effect)?(的)?(item)",
+        "給我(個)?(brand|color|effect)?(的)?(item)",
+        "可以(推薦)(一個)?(brand|color|effect)?(的)?(item)(給我)?嗎",
+        "(speaker_說話者)?(expect_期望)(找)?(brand|color)?(的)?(item)",
+        "(有沒有)(brand|color|effect)?(的)?(item)",
+        "(有沒有)(推薦)(的)?(brand|color|effect)?(的)?(item|商品_commodity)",
+        "(OtherWord_Ques_疑問)?(推薦)(speaker_說話者)?(brand|color|effect)?(的)?(item)"
+    ],
+    "search_makeup": [
+        "(有沒有)?(推薦)(的)?(style)",
+        "有推薦的(濃妝)嗎",
+        "推薦一個(氣質)妝給我～",
+        "我想找(上學)妝",
+        "我想找(上學)的妝",
+        "推薦個(occasion)妝吧",
+        "我想找(style)風格的妝容",
+        "有沒有(occasion)適合的妝容",
+        "我要找(occasion)可以用的妝"
+    ],
+    "skinBad": [
+        "昨天太晚睡今天(puffyeyes)了",
+        "我有(allergy)",
+        "我(acne)一直長",
+        "生理期來一堆(acne)",
+        "我臉頰長(rash)",
+        "我今天(oilyskin)",
+        "我最近(darkcircles)(很深|很重)",
+        "狂冒(acne)怎麼辦",
+        "我長(rash)了",
+        "我的(darkcircles)現在超重",
+        "我(acne)很多",
+        "我的臉今天好(effect_greasy)",
+        "不小心有(skinProblem)怎麼辦",
+        "今天長了一些(skinProblem)",
+        "我今天皮膚冒出(skinProblem)",
+        "怎麼辦我的皮膚(抱怨)掉了",
+        "(skin)今天(抱怨)掉了"
+    ],
+    "thanks": [
+    ]
+}

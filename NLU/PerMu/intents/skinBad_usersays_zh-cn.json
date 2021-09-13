@@ -1,0 +1,410 @@
+[
+  {
+    "id": "98d4ac9a-2dd6-417b-9d74-50088504377f",
+    "data": [
+      {
+        "text": "我皮膚不好",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504575948
+  },
+  {
+    "id": "664e7372-0a86-49a5-b905-838179d6e03e",
+    "data": [
+      {
+        "text": "昨天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "太",
+        "userDefined": false
+      },
+      {
+        "text": "晚",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "睡",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "水腫",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025110
+  },
+  {
+    "id": "da5e44f8-9dca-493d-9d8d-982f4709ce9e",
+    "data": [
+      {
+        "text": "我有",
+        "userDefined": false
+      },
+      {
+        "text": "過敏",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025110
+  },
+  {
+    "id": "8b5eb17d-3c94-43e8-ab55-f6f99109319d",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "痘痘",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "直長",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025110
+  },
+  {
+    "id": "ee9500cc-1550-4082-97dc-c39ff68416ad",
+    "data": [
+      {
+        "text": "生理期來",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "堆",
+        "userDefined": false
+      },
+      {
+        "text": "痘痘",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025110
+  },
+  {
+    "id": "715c1157-1b04-40d4-8f12-a057a96f2169",
+    "data": [
+      {
+        "text": "我臉頰長",
+        "userDefined": false
+      },
+      {
+        "text": "紅斑",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025110
+  },
+  {
+    "id": "1583c811-c42d-4831-ac75-841a0c720196",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "臉很油",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502025110
+  },
+  {
+    "id": "b6b5d053-e9c3-46a6-98fe-d4a289a6cda5",
+    "data": [
+      {
+        "text": "我最近",
+        "userDefined": false
+      },
+      {
+        "text": "黑眼圈",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "很深",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501659494
+  },
+  {
+    "id": "223baced-ead7-4c67-8238-47238b3caa95",
+    "data": [
+      {
+        "text": "狂冒",
+        "userDefined": false
+      },
+      {
+        "text": "痘痘",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼辦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501659494
+  },
+  {
+    "id": "8bad3937-f2d4-48b8-9a1a-32e1214f2d29",
+    "data": [
+      {
+        "text": "我長",
+        "userDefined": false
+      },
+      {
+        "text": "疹子",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501659452
+  },
+  {
+    "id": "d94623c9-985f-4073-93ae-02d366815ce3",
+    "data": [
+      {
+        "text": "我最近",
+        "userDefined": false
+      },
+      {
+        "text": "黑眼圈",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "很重",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f07e685e-97ac-497f-9e7d-baa2603a2a60",
+    "data": [
+      {
+        "text": "我的",
+        "userDefined": false
+      },
+      {
+        "text": "黑眼圈",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "現在超重",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501659409
+  },
+  {
+    "id": "9f54a5bb-373b-43be-8e78-ab184f9d089d",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "痘痘",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": false
+      },
+      {
+        "text": "很多",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501659336
+  },
+  {
+    "id": "59a46b31-933a-49de-8f85-d3387cfb0a07",
+    "data": [
+      {
+        "text": "我的臉",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "好",
+        "userDefined": false
+      },
+      {
+        "text": "油膩",
+        "alias": "skinProblem",
+        "meta": "@skinProblem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501659494
+  },
+  {
+    "id": "08257bb5-2708-49b1-9dcd-9e4426d7b753",
+    "data": [
+      {
+        "text": "不小心有 @skinProblem:skinProblem 怎麼辦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501507960
+  },
+  {
+    "id": "28ea4bbc-e1b8-4a5f-8055-20e8fc30d2bc",
+    "data": [
+      {
+        "text": "今天長了一些 @skinProblem:skinProblem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501507960
+  },
+  {
+    "id": "d59d7072-efec-46c1-b156-306c2b4cbd8e",
+    "data": [
+      {
+        "text": "我今天皮膚冒出 @skinProblem:skinProblem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501507960
+  },
+  {
+    "id": "308b652a-d8f9-4d78-841b-3161e383b09a",
+    "data": [
+      {
+        "text": "怎麼辦我的皮膚",
+        "userDefined": false
+      },
+      {
+        "text": "爛",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "掉了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501507960
+  },
+  {
+    "id": "4499299e-91bc-4a13-99f7-fb131a55a031",
+    "data": [
+      {
+        "text": "皮膚",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "爛",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "掉了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501507960
+  }
+]

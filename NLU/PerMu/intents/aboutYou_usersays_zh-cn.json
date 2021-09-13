@@ -1,0 +1,667 @@
+[
+  {
+    "id": "5285b85d-c8c5-460e-9bc0-1d193abfe5da",
+    "data": [
+      {
+        "text": "那你可以給我你的",
+        "userDefined": false
+      },
+      {
+        "text": "電話號碼",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "240b10f8-8a7f-4084-bd2c-3ff677ac05e9",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "會幹嘛",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "138f56bf-891d-441d-8dff-22a2e68905eb",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "哪位",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "a1041fc0-be0e-436f-a7cb-b593ee9c8a83",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "住哪",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503970827
+  },
+  {
+    "id": "b5b77138-ef6d-46e8-af4a-99fd4959d31e",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "想要",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "你的",
+        "userDefined": false
+      },
+      {
+        "text": "電話",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "ccc24a5a-e02a-4f49-a14f-df29759efee3",
+    "data": [
+      {
+        "text": "你覺得很不錯是嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504756200
+  },
+  {
+    "id": "a5fd1252-62f2-4b85-86f8-2da083919f6d",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "會什麼",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501723465
+  },
+  {
+    "id": "44d86e7e-e0a1-421b-bd13-9b39dead14e2",
+    "data": [
+      {
+        "text": "來者",
+        "userDefined": false
+      },
+      {
+        "text": "何人",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "4bfe5bac-d76b-4ac6-8ce9-c1d94583ba87",
+    "data": [
+      {
+        "text": "你要",
+        "userDefined": false
+      },
+      {
+        "text": "怎麼用",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501749412
+  },
+  {
+    "id": "5b5d0b45-5dff-452d-8b45-8945fb673d3b",
+    "data": [
+      {
+        "text": "你可以給我你的",
+        "userDefined": false
+      },
+      {
+        "text": "電話",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "d9f485e6-af3c-4a49-8fd8-80e9fb18309a",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "誰",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501723465
+  },
+  {
+    "id": "56a3a560-60e9-49b1-b004-1743bb854177",
+    "data": [
+      {
+        "text": "加",
+        "userDefined": false
+      },
+      {
+        "text": "賴",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "嗎？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503299972
+  },
+  {
+    "id": "93444baa-af53-4707-ace5-f04a1066bd5c",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "喜歡做什麼",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "e8b604a8-92af-441d-9b7d-51452731035f",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "會什麼",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "becb47f6-b300-4589-b737-06a60aded54a",
+    "data": [
+      {
+        "text": "那你",
+        "userDefined": false
+      },
+      {
+        "text": "能做什麼",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "呀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "0ff62b67-5c45-46ab-9bf6-49aad8d1e343",
+    "data": [
+      {
+        "text": "平",
+        "userDefined": false
+      },
+      {
+        "text": "常做什麼",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "4858c2ec-ec87-47d2-bef2-97d2419525cf",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "可以幹嘛",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "ae96992b-b1b7-46d0-8b46-93940e09f4c8",
+    "data": [
+      {
+        "text": "我想知道你的",
+        "userDefined": false
+      },
+      {
+        "text": "電話",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "612236ab-2810-4764-b263-b7b431a7e5cf",
+    "data": [
+      {
+        "text": "請問",
+        "userDefined": false
+      },
+      {
+        "text": "芳名",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "7e757e00-d5d4-4bcd-bb4d-cdef8713baae",
+    "data": [
+      {
+        "text": "名字",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      },
+      {
+        "text": "可以告訴我嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502874771
+  },
+  {
+    "id": "5e460991-de7c-4084-9018-98d1ce903184",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "是誰",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "09d9cbd5-9b0c-4248-bd37-d369004a2adf",
+    "data": [
+      {
+        "text": "可以給我你的",
+        "userDefined": false
+      },
+      {
+        "text": "電話",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "7a329e46-bf69-41af-9475-185f0ee7b484",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "過得怎麼樣",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6077030c-48ce-4f65-82a4-bb9383dc19d1",
+    "data": [
+      {
+        "text": "你叫什麼",
+        "userDefined": false
+      },
+      {
+        "text": "名字",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "05d3eb61-3091-41bc-b755-04aead76f590",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "過得怎麼樣",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3d45042-0f13-45fc-9445-4cb50eb85415",
+    "data": [
+      {
+        "text": "有事嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503912353
+  },
+  {
+    "id": "5a2c360a-5300-4490-96ef-18e566d4573e",
+    "data": [
+      {
+        "text": "你的",
+        "userDefined": false
+      },
+      {
+        "text": "興趣",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      },
+      {
+        "text": "是什麼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "fc273fac-b108-4583-8b8c-c5632e67e08a",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "今天",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "過得好嗎",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "313aecb7-65bf-4661-aa67-35c8ec374800",
+    "data": [
+      {
+        "text": "您是",
+        "userDefined": false
+      },
+      {
+        "text": "哪位",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503913894
+  },
+  {
+    "id": "dfdf99d4-87fd-4bef-bfed-0e1ac80ae45d",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "叫啥",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501723465
+  },
+  {
+    "id": "ca6c9cbc-8a50-4256-aeb8-c1caec918b31",
+    "data": [
+      {
+        "text": "給我你的",
+        "userDefined": false
+      },
+      {
+        "text": "號碼",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "4a2860f6-d545-41d1-a798-e6cf8eb20e05",
+    "data": [
+      {
+        "text": "我想看",
+        "userDefined": false
+      },
+      {
+        "text": "你的照片",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501723465
+  },
+  {
+    "id": "113dd4ac-2753-4d3b-96e8-3c1c82bc4877",
+    "data": [
+      {
+        "text": "啥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503912502
+  },
+  {
+    "id": "33697e36-4f3e-4b37-9763-e5eb4ddc6489",
+    "data": [
+      {
+        "text": "你",
+        "userDefined": false
+      },
+      {
+        "text": "長得正",
+        "alias": "query",
+        "meta": "@aboutyou_slot",
+        "userDefined": true
+      },
+      {
+        "text": "嗎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1502072444
+  }
+]

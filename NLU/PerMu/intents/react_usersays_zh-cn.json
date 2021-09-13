@@ -1,0 +1,208 @@
+[
+  {
+    "id": "5f867b4f-9c7f-4919-8246-7bf3834a617f",
+    "data": [
+      {
+        "text": "你hen",
+        "userDefined": false
+      },
+      {
+        "text": "棒",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504497998
+  },
+  {
+    "id": "47d69365-f0cb-48de-9178-ad48ede7f553",
+    "data": [
+      {
+        "text": "hmm就",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "啊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503895531
+  },
+  {
+    "id": "c92e9a38-7b6f-4149-82ca-f95bfcb28977",
+    "data": [
+      {
+        "text": "聽起來",
+        "userDefined": false
+      },
+      {
+        "text": "很好",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501826386
+  },
+  {
+    "id": "8f26d7a0-0b08-4548-9007-88ec19ff7742",
+    "data": [
+      {
+        "text": "不要",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501598809
+  },
+  {
+    "id": "a1dc2f5d-08af-441e-9d68-5038a777230d",
+    "data": [
+      {
+        "text": "挺好",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": true
+      },
+      {
+        "text": "的",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e3f843c1-7595-47ec-a870-f60ba32b72ca",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "有點",
+        "userDefined": false
+      },
+      {
+        "text": "醜",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501509188
+  },
+  {
+    "id": "979a1c75-c5c2-4701-9cb8-b7b0449d5b92",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "欸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501464613
+  },
+  {
+    "id": "caaacfc2-e66c-4979-93d1-1a7111e5532c",
+    "data": [
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "不喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501464542
+  },
+  {
+    "id": "a5fe3f90-01cb-4917-93ba-1d6a77997cce",
+    "data": [
+      {
+        "text": "這個",
+        "alias": "where",
+        "meta": "@where_list",
+        "userDefined": false
+      },
+      {
+        "text": "我",
+        "userDefined": false
+      },
+      {
+        "text": "沒有很喜歡",
+        "alias": "sentiment",
+        "meta": "@sentiment_list",
+        "userDefined": false
+      },
+      {
+        "text": "欸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1501464502
+  },
+  {
+    "id": "68bded44-c148-4429-b12a-47e71d5d22eb",
+    "data": [
+      {
+        "text": "@where_list:where 很 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1501135387
+  },
+  {
+    "id": "0af7a0ff-7a0b-4a02-8d0c-e304cc223178",
+    "data": [
+      {
+        "text": "我 @sentiment_list:sentiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 0
+  }
+]

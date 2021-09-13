@@ -1,0 +1,36 @@
+{
+  "id": "7be9db19-8dfd-43a1-be6c-b6d1b5f7e478",
+  "name": "thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8e8db8cd-77b0-4b0d-b9de-dab6235b616a",
+          "dataType": "@sentiment_list",
+          "name": "sentiment_list",
+          "value": "$sentiment_list",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1503914483,
+  "fallbackIntent": false,
+  "events": []
+}
